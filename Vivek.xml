@@ -1,0 +1,104 @@
+             
+<student-info id="V001">    
+<student-name>Vivek</student-name>
+<student-age>22</student-age>      
+<student-gender>Male</student-gender>
+<student-course>BTech</student-course> 
+<student-year>Final</student-year>
+<student-email>vivek@example.com</student-email>         
+<student-phone>7795793303</student-phone>
+<student-city>Mudhol</student-city>
+<student-cgpa>8.1</student-cgpa>
+<student-status>Active</student-status>
+</student-info>       
+                          
+<student-info id="V002">         
+<student-name>Revati</student-name>
+<student-age>21</student-age>
+<student-gender>Female</student-gender>
+<student-course>BE</student-course>
+<student-year>6th</student-year>
+<student-email>revati@example.com</student-email>
+<student-phone>9019543127</student-phone>
+<student-city>Belagavi</student-city>
+<student-cgpa>8.2</student-cgpa>  
+<student-status>Active</student-status>
+</student-info>   
+                         
+<student-info id="V003">
+<student-name>Shambhavi</student-name>
+<student-age>20</student-age>
+<student-gender>Female</student-gender>
+<student-course>BCA</student-course>
+<student-year>3rd</student-year>
+<student-email>shambhavi@example.com</student-email>
+<student-phone>9449626648</student-phone>
+<student-city>Bangalore</student-city>
+<student-cgpa>7.7</student-cgpa>
+<student-status>Active</student-status>
+</student-info>
+
+<student-info id="V004">
+<student-name>Samarth</student-name>
+<student-age>23</student-age>
+<student-gender>Male</student-gender>
+<student-course>MCA</student-course>
+<student-year>4th</student-year>
+<student-email>samarth@example.com</student-email>
+<student-phone>9380300928</student-phone>
+<student-city>Chennai</student-city>
+<student-cgpa>7.5</student-cgpa>
+<student-status>Active</student-status>
+</student-info>
+
+<student-info id="V005">
+<student-name>Basavaraj</student-name>
+<student-age>21</student-age>
+<student-gender>Male</student-gender>
+<student-course>Bsc IT</student-course>
+<student-year>2nd</student-year>
+<student-email>basavaraj@example.com</student-email>
+<student-phone>9739009636</student-phone>
+<student-city>Mysore</student-city>
+<student-cgpa>8.9</student-cgpa>
+<student-status>Active</student-status>
+</student-info>
+
+<student-info id="V006">
+<student-name>Prabhavati</student-name>
+<student-age>22</student-age>
+<student-gender>Female</student-gender>
+<student-course>BSc CS</student-course>
+<student-year>1st</student-year>
+<student-email>prabhavati@example.com</student-email>
+<student-phone>7353897554</student-phone>
+<student-city>Hyderabad</student-city>
+<student-cgpa>8.5</student-cgpa>
+<student-status>Active</student-status>
+</student-info>
+
+<student-info id="V007">
+<student-name>Priya</student-name>
+<student-age>20</student-age>
+<student-gender>Female</student-gender>
+<student-course>MTech</student-course>
+<student-year>Final</student-year>              
+<student-email>priya@example.com</student-email>
+<student-phone>8971489676</student-phone>
+<student-city>Mangalore</student-city>
+<student-cgpa>7.9</student-cgpa>
+<student-status>Active</student-status>
+</student-info>
+
+<student-info id="V008">
+<student-name>Shreya</student-name>
+<student-age>24</student-age>
+<student-gender>Female</student-gender>
+<student-course>MSc CS</student-course>
+<student-year>2nd</student-year>
+<student-email>shreya@example.com</student-email>
+<student-phone>9739496887</student-phone>
+<student-city>Pune</student-city>
+<student-cgpa>9.0</student-cgpa>
+<student-status>Active</student-status>
+<student-info>

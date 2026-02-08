@@ -1,0 +1,243 @@
+***  Installation Started 02/26/2003 10:24  ***
+Title: Epsilon 10.00 Installation
+Source: \\BACKUPSERVER\ZEN\TS-LAW\COMMON\EPSILO~1\E10\SETUP.EXE
+* COMPONENTS=ACEF
+* PATHOPTION=A
+* MAINDIR=C:\Program Files\Eps10
+* BIN32=C:\Program Files\Eps10\bin
+* BIN16=C:\Program Files\Eps10\binw16
+* BINDIR=C:\Program Files\Eps10\bin
+* BINCON=C:\Program Files\Eps10\bin
+* OWNER=A-7
+* COMPANY=gisl
+* SERIAL=12345
+* EBIN32=
+* EBIN16=
+* ECONDIR=
+* EBINDIR=
+* EVALVERSION=
+* KEEPOLD=B, FINDOLD=
+Made Dir: C:\Program Files\Eps10
+File Copy: C:\Program Files\Eps10\readme.txt
+Made Dir: C:\Program Files\Eps10\bin
+File Copy: C:\Program Files\Eps10\bin\epsilon.exe
+File Copy: C:\Program Files\Eps10\bin\epsilonc.exe
+File Copy: C:\Program Files\Eps10\edoc
+File Copy: C:\Program Files\Eps10\bin\inherit.exe
+File Copy: C:\Program Files\Eps10\bin\inherit.pif
+File Copy: C:\Program Files\Eps10\bin\epshlp.dll
+File Copy: C:\Program Files\Eps10\bin\VisEpsil.dll
+File Copy: C:\Program Files\Eps10\bin\SendEps.exe
+File Copy: C:\Program Files\Eps10\bin\concur16.exe
+File Copy: C:\Program Files\Eps10\bin\concur16.pif
+File Copy: C:\Program Files\Eps10\bin\concur16.ico
+File Copy: C:\Program Files\Eps10\bin\sheller.exe
+File Copy: C:\Program Files\Eps10\bin\sheller.pif
+File Copy: C:\Program Files\Eps10\bin\conagent.pif
+File Copy: C:\Program Files\Eps10\bin\edoc.hlp
+File Copy: C:\Program Files\Eps10\bin\eel.exe
+File Copy: C:\Program Files\Eps10\bin\eel_lib.dll
+File Copy: C:\Program Files\Eps10\bin\lhelp.exe
+File Copy: C:\Program Files\Eps10\BRIEF.B
+File Copy: C:\Program Files\Eps10\COLOR.B
+File Copy: C:\Program Files\Eps10\DIFF.B
+File Copy: C:\Program Files\Eps10\QUICKUP.B
+File Copy: C:\Program Files\Eps10\ASM.B
+File Copy: C:\Program Files\Eps10\INFO.B
+File Copy: C:\Program Files\Eps10\PERL.B
+File Copy: C:\Program Files\Eps10\DISPCHAR.B
+File Copy: C:\Program Files\Eps10\DISPLOOK.B
+File Copy: C:\Program Files\Eps10\EDITVARS.B
+File Copy: C:\Program Files\Eps10\KEYPROGS.B
+File Copy: C:\Program Files\Eps10\VIDEXTRA.B
+File Copy: C:\Program Files\Eps10\epsilon.kbd
+File Copy: C:\Program Files\Eps10\brief.kbd
+File Copy: C:\Program Files\Eps10\CUA.MNU
+File Copy: C:\Program Files\Eps10\CUA.KBD
+File Copy: C:\Program Files\Eps10\gui.mnu
+File Copy: C:\Program Files\Eps10\epsilon.mnu
+File Copy: C:\Program Files\Eps10\brief.mnu
+File Copy: C:\Program Files\Eps10\latex.env
+File Copy: C:\Program Files\Eps10\colclass.txt
+Made Dir: C:\Program Files\Eps10\info
+File Copy: C:\Program Files\Eps10\info\EPSILON.INF
+File Copy: C:\Program Files\Eps10\info\DIR
+File Copy: C:\Program Files\Eps10\eteach
+Made Dir: C:\Program Files\Eps10\lhelp
+File Copy: C:\Program Files\Eps10\lhelp\epsilon.lhl
+File Copy: C:\Program Files\Eps10\lhelp\cover.gif
+File Copy: C:\Program Files\Eps10\lhelp\edoc.gif
+File Copy: C:\Program Files\Eps10\lhelp\eel.gif
+File Copy: C:\Program Files\Eps10\lhelp\eelride.gif
+File Copy: C:\Program Files\Eps10\lhelp\general.gif
+File Copy: C:\Program Files\Eps10\lhelp\index.gif
+File Copy: C:\Program Files\Eps10\lhelp\introeel.gif
+File Copy: C:\Program Files\Eps10\lhelp\luglogox.gif
+File Copy: C:\Program Files\Eps10\lhelp\misc.gif
+File Copy: C:\Program Files\Eps10\lhelp\modif.gif
+File Copy: C:\Program Files\Eps10\lhelp\prim.gif
+File Copy: C:\Program Files\Eps10\lhelp\screen1.gif
+File Copy: C:\Program Files\Eps10\lhelp\screen2.gif
+File Copy: C:\Program Files\Eps10\lhelp\screen3.gif
+File Copy: C:\Program Files\Eps10\lhelp\screen4.gif
+File Copy: C:\Program Files\Eps10\lhelp\screen5.gif
+File Copy: C:\Program Files\Eps10\lhelp\spacer.gif
+File Copy: C:\Program Files\Eps10\lhelp\started.gif
+File Copy: C:\Program Files\Eps10\lhelp\topic.gif
+File Copy: C:\Program Files\Eps10\lhelp\vars.gif
+File Copy: C:\Program Files\Eps10\lhelp\welcome.gif
+File Copy: C:\Program Files\Eps10\lhelp\wolfcol2.gif
+File Copy: C:\Program Files\Eps10\lhelp\cover2.gif
+File Copy: C:\Program Files\Eps10\lhelp\man.css
+File Copy: C:\Program Files\Eps10\lhelp\searchb.gif
+File Copy: C:\Program Files\Eps10\lhelp\relnotes.gif
+File Copy: C:\Program Files\Eps10\Lugaru.url
+File Copy: C:\Program Files\Eps10\primlist.doc
+File Copy: C:\Program Files\Eps10\manbugs.txt
+File Copy: C:\Program Files\Eps10\original.sta
+File Copy: C:\Program Files\Eps10\ebackup.sta
+File Copy: C:\Program Files\Eps10\epsilon.ses
+File Copy: C:\Program Files\Eps10\epsilon.sta
+Made Dir: C:\Program Files\Eps10\include
+File Copy: C:\Program Files\Eps10\include\EEL.H
+File Copy: C:\Program Files\Eps10\include\CODES.H
+File Copy: C:\Program Files\Eps10\include\C.H
+File Copy: C:\Program Files\Eps10\include\COLCODE.H
+File Copy: C:\Program Files\Eps10\include\KEYDEF.H
+File Copy: C:\Program Files\Eps10\include\KEYEXT.H
+File Copy: C:\Program Files\Eps10\include\KILL.H
+File Copy: C:\Program Files\Eps10\include\LOWLEVEL.H
+File Copy: C:\Program Files\Eps10\include\MENU.H
+File Copy: C:\Program Files\Eps10\include\PROC.H
+File Copy: C:\Program Files\Eps10\include\TAGS.H
+File Copy: C:\Program Files\Eps10\include\VIDEO.H
+File Copy: C:\Program Files\Eps10\include\BUFED.H
+File Copy: C:\Program Files\Eps10\include\FILTER.H
+File Copy: C:\Program Files\Eps10\include\GREP.H
+File Copy: C:\Program Files\Eps10\include\DIFF.H
+File Copy: C:\Program Files\Eps10\include\DIRED.H
+File Copy: C:\Program Files\Eps10\include\EPSNET.H
+File Copy: C:\Program Files\Eps10\include\HTML.H
+File Copy: C:\Program Files\Eps10\include\TEX.H
+File Copy: C:\Program Files\Eps10\include\BROWSE.H
+File Copy: C:\Program Files\Eps10\include\INFO.H
+File Copy: C:\Program Files\Eps10\include\MAKEMODE.H
+File Copy: C:\Program Files\Eps10\include\INIMODE.H
+File Copy: C:\Program Files\Eps10\include\PERL.H
+File Copy: C:\Program Files\Eps10\include\GAMS.H
+File Copy: C:\Program Files\Eps10\include\MISCLANG.H
+File Copy: C:\Program Files\Eps10\epswhlp.hlp
+File Copy: C:\Program Files\Eps10\epswhlp.cnt
+Made Dir: C:\Program Files\Eps10\source
+File Copy: C:\Program Files\Eps10\source\EPSILON.E
+File Copy: C:\Program Files\Eps10\source\BASIC.E
+File Copy: C:\Program Files\Eps10\source\BOOKMARK.E
+File Copy: C:\Program Files\Eps10\source\BUFED.E
+File Copy: C:\Program Files\Eps10\source\BUFFER.E
+File Copy: C:\Program Files\Eps10\source\C.E
+File Copy: C:\Program Files\Eps10\source\CMDLINE.E
+File Copy: C:\Program Files\Eps10\source\COMPARE.E
+File Copy: C:\Program Files\Eps10\source\COMPLETE.E
+File Copy: C:\Program Files\Eps10\source\CONTROL.E
+File Copy: C:\Program Files\Eps10\source\DEBUG.E
+File Copy: C:\Program Files\Eps10\source\DIRED.E
+File Copy: C:\Program Files\Eps10\source\DISP.E
+File Copy: C:\Program Files\Eps10\source\EPSNET.E
+File Copy: C:\Program Files\Eps10\source\FILEDATE.E
+File Copy: C:\Program Files\Eps10\source\FILES.E
+File Copy: C:\Program Files\Eps10\source\FORMAT.E
+File Copy: C:\Program Files\Eps10\source\GREP.E
+File Copy: C:\Program Files\Eps10\source\HELP.E
+File Copy: C:\Program Files\Eps10\source\HTML.E
+File Copy: C:\Program Files\Eps10\source\INDENT.E
+File Copy: C:\Program Files\Eps10\source\KILL.E
+File Copy: C:\Program Files\Eps10\source\LOAD.E
+File Copy: C:\Program Files\Eps10\source\LOWLEVEL.E
+File Copy: C:\Program Files\Eps10\source\MENU.E
+File Copy: C:\Program Files\Eps10\source\MOUSE.E
+File Copy: C:\Program Files\Eps10\source\PROC.E
+File Copy: C:\Program Files\Eps10\source\PROG.E
+File Copy: C:\Program Files\Eps10\source\SEARCH.E
+File Copy: C:\Program Files\Eps10\source\SESSION.E
+File Copy: C:\Program Files\Eps10\source\SET.E
+File Copy: C:\Program Files\Eps10\source\SORT.E
+File Copy: C:\Program Files\Eps10\source\STORE.E
+File Copy: C:\Program Files\Eps10\source\TAGS.E
+File Copy: C:\Program Files\Eps10\source\UNDO.E
+File Copy: C:\Program Files\Eps10\source\VIDEO.E
+File Copy: C:\Program Files\Eps10\source\WINDOW.E
+File Copy: C:\Program Files\Eps10\source\ZOOM.E
+File Copy: C:\Program Files\Eps10\source\BRIEF.E
+File Copy: C:\Program Files\Eps10\source\COLCODE.E
+File Copy: C:\Program Files\Eps10\source\COLOR.E
+File Copy: C:\Program Files\Eps10\source\DIFF.E
+File Copy: C:\Program Files\Eps10\source\DISPCHAR.E
+File Copy: C:\Program Files\Eps10\source\STDCOLOR.E
+File Copy: C:\Program Files\Eps10\source\DISPLOOK.E
+File Copy: C:\Program Files\Eps10\source\EDITVARS.E
+File Copy: C:\Program Files\Eps10\source\KEYPROGS.E
+File Copy: C:\Program Files\Eps10\source\LIST-ALL.E
+File Copy: C:\Program Files\Eps10\source\VIDEXTRA.E
+File Copy: C:\Program Files\Eps10\source\CLIPBOAR.E
+File Copy: C:\Program Files\Eps10\source\UNIQ.E
+File Copy: C:\Program Files\Eps10\source\BROWSE.E
+File Copy: C:\Program Files\Eps10\source\TEX.E
+File Copy: C:\Program Files\Eps10\source\INFO.E
+File Copy: C:\Program Files\Eps10\source\QUICKUP.E
+File Copy: C:\Program Files\Eps10\source\ASM.E
+File Copy: C:\Program Files\Eps10\source\FILLCOMM.E
+File Copy: C:\Program Files\Eps10\source\PERL.E
+File Copy: C:\Program Files\Eps10\source\MAKEMODE.E
+File Copy: C:\Program Files\Eps10\source\INIMODE.E
+File Copy: C:\Program Files\Eps10\source\GAMS.E
+File Copy: C:\Program Files\Eps10\source\MISCLANG.E
+File Copy: C:\Program Files\Eps10\source\MAKEFILE
+File Tree: C:\Program Files\Eps10\source
+Made Dir: C:\Program Files\Eps10\changes
+File Copy: C:\Program Files\Eps10\changes\FROM65
+File Copy: C:\Program Files\Eps10\changes\FROM70
+File Copy: C:\Program Files\Eps10\changes\FROM80
+File Copy: C:\Program Files\Eps10\changes\FROM90
+File Copy: C:\Program Files\Eps10\changes\LIST40.STD
+File Copy: C:\Program Files\Eps10\changes\LIST50.STD
+File Copy: C:\Program Files\Eps10\changes\LIST501.STD
+File Copy: C:\Program Files\Eps10\changes\LIST60.STD
+File Copy: C:\Program Files\Eps10\changes\LIST65.STD
+File Copy: C:\Program Files\Eps10\changes\LIST70.STD
+File Copy: C:\Program Files\Eps10\changes\LIST80.STD
+File Copy: C:\Program Files\Eps10\changes\LIST90.STD
+File Copy: C:\Program Files\Eps10\changes\LIST10.STD
+File Copy: C:\Program Files\Eps10\changes\NEWKEYS.E
+File Copy: C:\Program Files\Eps10\changes\NEWKEYS.B
+File Copy: C:\Program Files\Eps10\UNWISE.EXE
+File Copy: C:\Program Files\Eps10\UNWISE.INI
+Made Dir: C:\WINDOWS\Start Menu\Programs\Epsilon 10.00
+RegDB Key: Software\Lugaru\Epsilon
+RegDB Val: C:\WINDOWS\Start Menu\Programs\Epsilon 10.00
+RegDB Name: StartMenuGroup10
+RegDB Root: 1
+Shell Link: C:\WINDOWS\Start Menu\Programs\Epsilon 10.00\Epsilon.lnk
+Shell Link: C:\WINDOWS\Desktop\Epsilon 10.00.lnk
+Shell Link: C:\WINDOWS\SendTo\Epsilon 10.00.lnk
+Shell Link: C:\WINDOWS\Start Menu\Programs\Epsilon 10.00\Epsilon for Win32 Console.lnk
+RegDB Key: Software\Microsoft\Windows\CurrentVersion\Uninstall\LugaruEpsilon10
+RegDB Val: Epsilon Programmer's Editor 10.00
+RegDB Name: DisplayName
+RegDB Root: 2
+RegDB Key: Software\Microsoft\Windows\CurrentVersion\Uninstall\LugaruEpsilon10
+RegDB Val: C:\PROGRA~1\EPS10\UNWISE C:\PROGRA~1\EPS10\INSTALL.LOG
+RegDB Name: UninstallString
+RegDB Root: 2
+RegDB Key: Software\Lugaru\Epsilon
+RegDB Val: C:\PROGRA~1\EPS10
+RegDB Name: EpsPath10
+RegDB Root: 1
+RegDB Key: Software\Lugaru\Epsilon
+RegDB Val: C:\PROGRA~1\EPS10\BIN
+RegDB Name: BinPath10
+RegDB Root: 1
+RegDB Key: System\CurrentControlSet\Services\VxD\Epsilon10
+RegDB Val: C:\WINDOWS\SYSTEM\lugeps1.386
+RegDB Name: StaticVxD
+RegDB Root: 2
+* RESTART=W

@@ -1,0 +1,735 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cl:doc-meta>
+<cl:body-matter identifier="body">
+<cl:part identifier="part2">
+<cl:complex-meta>
+<cl:title>Management and Organization</cl:title>
+<cl:label>Part<cl:ordinal>3</cl:ordinal></cl:label>
+</cl:complex-meta>
+<cl:figure identifier="part3_ufig_1" number="nonumber" position="background">
+<cl:simple-meta>
+<cl:alt-text>Management and Organization</cl:alt-text></cl:simple-meta>
+<cl:metadata-wrapper>
+<cl:descriptive-media-meta>
+<cl:media-term>Photograph</cl:media-term>
+</cl:descriptive-media-meta>
+</cl:metadata-wrapper>
+<cl:media identifier="part3_umed_1">
+<cl:media-object units="pixel" identifier="part3_uimg_1" height="" width="" link-target="part02_ufig_0001-t3.jpg">
+<cl:media-reference>
+<cl:credit-byline><cl:person-name><cl:given-names>Walter G</cl:given-names> <cl:surname>Arce</cl:surname></cl:person-name></cl:credit-byline>
+<cl:composed-content>&#x00A9; Walter G Arce/Shutterstock.com</cl:composed-content>
+</cl:media-reference>
+</cl:media-object>
+</cl:media>
+</cl:figure>
+<cl:opener identifier="part3_opener">
+<cl:introduction identifier="part3_intro">
+<cl:para>This part of the book deals with the organization&#x2014;the &#x201C;thing&#x201D; that is a business. We begin with a discussion of the management functions involved in developing and operating a business. Next, we analyze the organization&#x2019;s elements and structure. Then we consider a firm&#x2019;s operations that are related to the production of goods and services.</cl:para>
+<?CL_XSL PageEnd _165?>
+</cl:introduction>
+</cl:opener>
+</cl:part>
+<cl:chapter identifier="ch4">
+<cl:complex-meta>
+<cl:title>Understanding the Management Process</cl:title>
+<cl:label><cl:ordinal>6</cl:ordinal></cl:label>
+</cl:complex-meta>
+
+<cl:figure identifier="ch6_ufig_1" number="nonumber" position="background">
+<cl:simple-meta>
+<cl:alt-text>Understanding the Management Process</cl:alt-text>
+<cl:metadata-wrapper>
+<cl:descriptive-media-meta>
+<cl:media-term>Photograph</cl:media-term>
+</cl:descriptive-media-meta>
+</cl:metadata-wrapper>
+<cl:media identifier="ch6_umed_1">
+<cl:media-object units="pixel" identifier="ch6_uimg_1" height="" width="" link-target="7808X_0006_img0001-t3.jpg"/>
+<cl:media-reference>
+<cl:credit-byline>
+<cl:composed-content>&#x00A9; &#x00A9; Monkey Business Images/Shutterstock.com</cl:composed-content>
+</cl:credit-byline>
+</cl:media-reference>
+</cl:media-object>
+</cl:media>
+</cl:figure>
+<cl:learn-obj-list number="nonumber">
+<cl:complex-meta>
+<cl:title>Learning Objectives</cl:title>
+</cl:complex-meta>
+<cl:para>What you will be able to do once you complete this chapter:</cl:para>
+<cl:list list-style="Ordered" numeration="arabic" continuation="restarts">
+<cl:item><cl:label>1</cl:label> <cl:para>Define what management is.</cl:para></cl:item>
+<cl:item><cl:label>2</cl:label> <cl:para>Describe the four basic management functions: planning, organizing, leading and motivating, and controlling.</cl:para></cl:item>
+<cl:item><cl:label>3</cl:label> <cl:para>Distinguish among the various kinds of managers in terms of both level and area of management.</cl:para></cl:item>
+<cl:item><cl:label>4</cl:label> <cl:para>Identify the key management skills of successful managers.</cl:para></cl:item>
+<cl:item><cl:label>5</cl:label> <cl:para>Explain the different types of leadership.</cl:para></cl:item>
+<cl:item><cl:label>6</cl:label> <cl:para>Discuss the steps in the managerial decision-making process.</cl:para></cl:item>
+<cl:item><cl:label>7</cl:label> <cl:para>Describe how organizations benefit from total quality management.</cl:para></cl:item>
+</cl:list>
+</cl:learn-obj-list>
+<?CL_XSL PageEnd _166?>
+<cl:simple-section number="nonumber">
+<cl:complex-meta>
+<cl:title>inside business: Procter &#x0026; Gamble Succeeds Through Excellent Management</cl:title>
+</cl:complex-meta>
+<cl:para>For decades, the five values of integrity, leadership, ownership, trust, and a passion for winning have guided the management of Procter &#x0026; Gamble (P&#x0026;G) toward long-term success. The Cincinnati-based company was founded in 1837 by William Procter and his brother-in-law, James Gamble, as a manufacturer of candles and soap. Today, P&#x0026;G has grown into an &#x0024;80 billion corporation with 135,000 employees worldwide and more than 100 brands, 22 of which each bring in more than &#x0024;1 billion in annual sales. Soaps such as Ivory and Safeguard remain an important part of P&#x0026;G&#x2019;s global empire, along with other well-known brands such as Bounty, Crest, Iams, Pampers, and Tide.</cl:para>
+<cl:para>During good times and bad, facing crisis or opportunity, P&#x0026;G&#x2019;s managers have relied on the company&#x2019;s five values, as well as on their expertise and experience, to make decisions and plans that keep sales and profits growing. Managers at all levels aim for a high level of personal and professional leadership. They understand the importance of acting ethically and believe in being held accountable for their actions. They also strive to maintain P&#x0026;G&#x2019;s competitive advantage by continuously innovating to meet the needs of customers today and tomorrow.</cl:para>
+<cl:para>When CEO Robert McDonald set the aggressive goal of extending the company&#x2019;s reach to serve one billion additional consumers by 2015, he and his managers formulated a variety of short- and long-term plans to achieve that goal. One plan calls for developing a higher number of new products and introducing them more quickly than in the past. Another plan details how the company will digitize documents to improve communications and get data more quickly to decision makers all over the world. In addition, managers for each brand and each country&#x2019;s operations have their own plans for expanding sales and attracting new customers.</cl:para>
+<cl:para>To ensure continued success, P&#x0026;G&#x2019;s top 42 executives meet every week to dissect the company&#x2019;s results, review future plans, and identify problem areas for immediate management attention. The executive team closely tracks the performance of the corporation&#x2019;s most promising middle managers and senior managers&#x2014;throughout the world&#x2014;and plans future assignments to round out these leaders&#x2019; skills and knowledge to keep P&#x0026;G growing in the decades to come.<cl:superscript>1</cl:superscript></cl:para>
+</cl:simple-section>
+<cl:sidebar identifier="ch2_sb_1" number="nonumber" position="fixed">
+<cl:complex-meta>
+<cl:title>FYI: Did You Know?</cl:title>
+</cl:complex-meta>
+<cl:metadata-wrapper>
+<cl:descriptive-meta>
+<cl:broad-term>dependent sidebar</cl:broad-term>
+</cl:descriptive-meta>
+</cl:metadata-wrapper>
+<cl:para>Procter &#x0026; Gamble employs 135,000 people worldwide, rings up &#x0024;80 billion in annual revenue, and owns 22 billion-dollar brands.</cl:para>
+</cl:sidebar>
+<cl:opener identifier="AC6_opener">
+<cl:introduction identifier="ch6_intro">
+<cl:para><cl:style styles="bold">T</cl:style>he leadership employed at Procter &#x0026; Gamble illustrates that management can be one of the most exciting and rewarding professions available today. Depending on its size, a firm may employ a number of specialized managers who are responsible for particular areas of management, such as marketing, finance, and operations. That same organization also includes managers at several levels within the firm. In this chapter, we define <cl:style styles="italic">management</cl:style> and describe the four basic management functions of planning, organizing, leading and motivating, and controlling. Then we focus on the types of managers with respect to levels of responsibility and areas of expertise. Next, we focus on the skills of effective managers and the different roles managers must play. We examine several styles of leadership and explore the process by which managers make decisions. We also describe how total quality management can improve customer satisfaction.</cl:para>
+</cl:introduction>
+</cl:opener>
+<?CL_XSL PageEnd _167?>
+<cl:sect1 identifier="ch6_sec1" number="nonumber">
+<cl:complex-meta>
+<cl:title>What Is Management?</cl:title>
+<cl:alt-text><cl:lable>1</cl:lable> Define what managementis.</cl:alt-text>
+</cl:complex-meta>
+<cl:para><cl:key-term-entry identifier="ch6_key1"><cl:key-term>Management</cl:key-term> <cl:key-term-def>the process of coordinating people and other resources to achieve the goals of anorganization</cl:key-term-def></cl:key-term-entry> is the process of coordinating people and other resources to achieve the goals of an organization. As we saw in <cl:xref target-type="generated-number" pre-text="Chapter " link-target="ch1" ordinal="1"/>, most organizations make use of four kinds of resources: material, human, financial, and informational (see <cl:xref target-type="generated-number" pre-text="Figure " link-target="ch6_fig1" ordinal="1"/>).</cl:para>
+<cl:figure identifier="ch6_fig_1" number="numbered" position="float">
+<cl:simple-meta>
+<cl:title>The Four Main Resources of Management</cl:title>
+<cl:alt-text>The Four Main Resources of Management</cl:alt-text>
+<cl:label>Figure<cl:ordinal>6.1</cl:ordinal></cl:label>
+</cl:simple-meta>
+<cl:metadata-wrapper>
+<cl:descriptive-media-meta>
+<cl:media-term>chart</cl:media-term>
+</cl:descriptive-media-meta>
+</cl:metadata-wrapper>
+<cl:media identifier="ch6_med_1">
+<cl:media-object identifier="ch6_img_1" link-target="7808X_0006_img0001-t2.jpg" units="pixel" width="" height="">
+</cl:media-object>
+</cl:media>
+<cl:source>&#x00A9; Andresr/Shutterstock.com</cl:source>
+</cl:figure>
+<cl:para><cl:style styles="italic">Material resources</cl:style> are the tangible, physical resources an organization uses. For example, General Motors uses steel, glass, and fiberglass to produce cars and trucks on complex machine-driven assembly lines. A college or university uses books, classroom buildings, desks, and computers to educate students. And the Mayo Clinic uses beds, operating room equipment, and diagnostic machines to provide health care.</cl:para>
+<cl:para>Perhaps the most important resources of any organization are its <cl:style styles="italic">human resources</cl:style>&#x2014;people. In fact, some firms live by the philosophy that their employees are their most important assets. One such firm is Southwest Airlines. Southwest treats its employees with the same respect and attention it gives its passengers. Southwest selectively seeks employees with upbeat attitudes and promotes from within 80 percent of the time. In decision making, everyone who will be affected is encouraged to get involved in the process. In an industry in which deregulation, extreme price competition, and fluctuating fuel costs have eliminated several major competitors, Southwest keeps growing and making a profit because of its employees. Many experts would agree with Southwest&#x2019;s emphasis on employees. Some managers believe that the way employees are developed and managed may have more impact on an organization than other vital components such as marketing, sound financial decisions about large expenditures, production, or use of technology.</cl:para>
+<cl:para><cl:style styles="italic">Financial resources</cl:style> are the funds an organization uses to meet its obligations to investors and creditors. A 7-Eleven convenience store obtains money from customers at the checkout counters and uses a portion of that money to pay its suppliers. Citicorp, a large New York bank, borrows and lends money. Your college obtains money in the form of tuition, income from its endowments, and state and federal grants. It uses the money to pay utility bills, insurance premiums, and professors&#x2019; salaries.</cl:para>
+<cl:para>Finally, many organizations increasingly find that they cannot afford to ignore <cl:style styles="italic">information</cl:style>. External environmental conditions&#x2014;including the economy, consumer markets, technology, politics, and cultural forces&#x2014;are all changing so rapidly that a business that does not adapt probably will not survive. To adapt to change, the business must know what is changing and how it is changing. Most companies gather information about their competitors to increase their knowledge about changes in their industry and to learn from other companies&#x2019; failures and successes.</cl:para>
+<cl:figure identifier="ch6_ufig_2" number="numbered" position="float">
+<cl:simple-meta>
+<cl:title>Human resources.</cl:title>
+<cl:alt-text>Human resources.</cl:alt-text>
+<cl:caption>In most organizations, effective management of human resources is absolutely critical.</cl:caption>
+</cl:simple-meta>
+<cl:metadata-wrapper>
+<cl:descriptive-media-meta>
+<cl:media-term>Photograph</cl:media-term>
+</cl:descriptive-media-meta>
+</cl:metadata-wrapper>
+<cl:media identifier="ch6_umed_2">
+<cl:media-object identifier="ch6_uimg_2" link-target="7808X_0006_img0001-t2.jpg" units="pixel" width="" height="">
+</cl:media-object>
+</cl:media>
+</cl:figure>
+<?CL_XSL PageEnd _168?>
+<cl:para>It is important to realize that the four types of resources described earlier are only general categories of resources. Within each category are hundreds or thousands of more specific resources. It is this complex mix of specific resources&#x2014;and not simply &#x201C;some of each&#x201D; of the four general categories&#x2014;that managers must coordinate to produce goods and services.</cl:para>
+<cl:para>Another interesting way to look at management is in terms of the different functions managers perform. These functions have been identified as planning, organizing, leading and motivating employees, and controlling. We look at each of these management functions in the next section.</cl:para>
+</cl:sect1>
+<cl:sect1 identifier="ch6_sec2" number="nonumber">
+<cl:complex-meta>
+<cl:title>Basic Management Functions</cl:title>
+<cl:alt-text><cl:lable>2</cl:lable> Describe the four basic management functions: planning, organizing, leading and motivating, andcontrolling.</cl:alt-text>
+</cl:complex-meta>
+<cl:para>Pharmaceutical company Eli Lilly recently made a decision to focus on the emerging market of China. The company reorganized its structure so that one of its six units would handle emerging markets, doubled its employee count from 1,100 to 2,200, and began construction on a second manufacturing plant in Suzhou, China. The company also implemented a partnering strategy in China to handle research and development. Eli Lilly&#x2019;s key strategies include maximizing their core assets, accelerating new product launches, capitalizing on longer product life-cycles in areas like China, and establishing local alliances to access fast-growing market segments.<cl:superscript>2</cl:superscript></cl:para>
+<cl:para><cl:style styles="bold">Management functions such as those just described do not occur according to some rigid, preset timetable. Managers do not plan in January, organize in February, lead and motivate in March, and control in April. At any given time, managers may engage in a number of functions simultaneously. However, each function tends to lead naturally to others. <cl:xref target-type="generated-number" pre-text="Figure " link-target="ch6_fig2" ordinal="2"/> provides a visual framework for a more detailed discussion of the four basic management functions. How well managers perform these key functions determines whether a business is successful.</cl:para>
+<cl:figure identifier="ch6_fig_2" number="numbered" position="float">
+<cl:simple-meta>
+<cl:title>The Management Process</cl:title>
+<cl:alt-text>The Management Process</cl:alt-text>
+<cl:label>Figure<cl:ordinal>6.2</cl:ordinal></cl:label>
+</cl:simple-meta>
+<cl:metadata-wrapper>
+<cl:descriptive-media-meta>
+<cl:media-term>chart</cl:media-term>
+</cl:descriptive-media-meta>
+</cl:metadata-wrapper>
+<cl:media identifier="ch6_med_2">
+<cl:media-object identifier="ch6_img_2" link-target="7808X_0006_img0001-t2.jpg" units="pixel" width="" height="">
+</cl:media-object>
+</cl:media>
+</cl:figure>
+<cl:sect2 identifier="ch6_sec1_1" number="nonumber">
+<cl:complex-meta>
+<cl:title>Planning</cl:title>
+<cl:para><cl:style styles="bold">Planning</cl:style>, in its simplest form, is establishing organizational goals and deciding how to accomplish them. It is often referred to as the &#x201C;first&#x201D; management function because all other management functions depend on planning. Organizations such as Starbucks, Houston Community Colleges, and Facebook begin the planning process by developing a mission statement.</cl:para>
+<cl:para>An organization&#x2019;s</cl:style> mission <cl:style styles="bold">is a statement of the basic purpose that makes that organization different from others. Starbucks&#x2019; mission statement, for example, is &#x201C;to inspire and nurture the human spirit&#x2014;one person, one cup, and one neighborhood at a time.&#x201D; Houston Community College&#x2019;s mission is to provide an education for local citizens. Facebook&#x2019;s mission statement is &#x201C;to give people the power to share and make the world more open and connected.&#x201D;<cl:superscript>3</cl:superscript> Once an organization&#x2019;s mission has been described in a mission statement, the next step is to engage in strategic planning.</cl:para>
+
+<cl:key-term-entry identifier="ch6_key2"><cl:key-term>Planning</cl:key-term> <cl:key-term-def>establishing organizational goals and deciding how to accomplish them</cl:key-term-def></cl:key-term-entry>
+<cl:para><cl:style styles="bold">mission</cl:style> a statement of the basic purpose that makes an organization diff erent from others</cl:para>
+
+<cl:para><cl:style styles="bold">Chapter 6: Understanding the Management Process</cl:style> </cl:para>
+<cl:para><cl:style styles="bold">169</cl:style></cl:para>
+<cl:para>7808X&#x005F;06&#x005F;ch06&#x005F;p165-190.indd 169 7808X&#x005F;06&#x005F;ch06&#x005F;p165-190.indd 169 28/10/10 11:33 PM</cl:para>
+<cl:para>28/10/10 11:33 PM</cl:para>
+<cl:para>Strategic Planning Process <cl:style styles="bold">The</cl:style> strategic planning process <cl:style styles="bold"> involves establishing an organization&#x2019;s major goals and objectives and allocating resources to achieve them. Top management is responsible for strategic planning, although customers, products, competitors, and company resources are some of the factors that are analyzed in the strategic planning process.</cl:para>
+<cl:para>In today&#x2019;s rapidly changing business environment, constant internal or external changes may necessitate changes in a company&#x2019;s goals, mission, or strategy. The time line for strategic plans is generally one to two years and can be as long as ten years. Strategic plans should be flexible and include action items, such as outlining how plans will be implemented.</cl:para>
+<cl:para>Establishing Goals and Objectives <cl:style styles="bold">A</cl:style> goal <cl:style styles="bold">is an end result that an organization is expected to achieve over a one- to ten-year period. An</cl:style> objective <cl:style styles="bold">is a specifi c statement detailing what the organization intends to accomplish over a shorter period of time.</cl:para>
+<cl:para>Goals and objectives can deal with a variety of factors, such as sales, company growth, costs, customer satisfaction, and employee morale. Whereas a small manufacturer may focus primarily on sales objectives for the next six months, a large firm may be more interested in goals that impact several years in the future. Starbucks, for example, has established several goals under its &#x201C;Shared Planet&#x201D; program to be completed in the next few years, specifically in the areas of ethical sourcing, environmental stewardship, and community involvement. By 2015, Starbucks hopes to purchase 100 percent of its coffee from ethical sources or farmers who grow their coffee responsibly without permanently harming the environment. The company also hopes to combat climate change by encouraging farmers to prevent deforestation through the use of incentive programs. Starbucks hopes to develop a recyclable cup by 2012. Also, the company hopes to use their stores to lead volunteer programs in each store&#x2019;s community.<cl:superscript>4</cl:superscript> Finally, goals are set at every level of an organization. Every member of an organization&#x2014;the president of the company, the head of a department, and an operating employee at the lowest level&#x2014;has a set of goals that he or she hopes to achieve.</cl:para>
+<cl:para>The goals developed for these different levels must be consistent. However, it is likely that some conflict will arise. A production department, for example, may have a goal of minimizing costs. One way to do this is to produce only one type of product and offer &#x201C;no frills.&#x201D; Marketing may have a goal of maximizing sales. One way to implement this goal is to offer customers a wide range of products and options. As part of goal setting, the manager who is responsible for <cl:style styles="italic">both</cl:style> departments must achieve some sort of balance between conflicting goals. This balancing process is called <cl:style styles="italic">optimization</cl:style>.</cl:para>
+<cl:para>The optimization of conflicting goals requires insight and ability. Faced with the marketing-versus-production conflict just described, most managers probably would not adopt either viewpoint completely. Instead, they might decide on a reasonably diverse product line offering only the most widely sought-after options. Such a compromise would seem to be best for the whole organization.</cl:para>
+<cl:para>SWOT Analysis <cl:style styles="bold"></cl:style>SWOT analysis <cl:style styles="bold">is the identifi cation and evaluation of a fi rm&#x2019;s strengths, weaknesses, opportunities, and threats. Strengths and weaknesses are internal factors that affect a company&#x2019;s capabilities. Strengths refer to a fi rm&#x2019;s favorable characteristics and core competencies.</cl:style> Core competencies <cl:style styles="bold">are approaches and processes that a company performs well that may give it an advantage over its competitors. These core competencies may help the fi rm attract fi nancial and human </cl:para>
+<cl:para>Mission statement.</cl:style> The mission statement of Aflac Insurance is &#x201C;to combine aggressive strategic marketing with quality products and services at competitive prices to provide the best insurance value for consumers.&#x201D;</cl:para>
+<cl:para><cl:style styles="bold">strategic planning process</cl:style> the establishment of an organization&#x2019;s major goals and objectives and the allocation of resources to achieve them</cl:para>
+<cl:para><cl:style styles="bold">goal</cl:style> an end result that an organization is expected to achieve over a one- to ten-year period</cl:para>
+<cl:para><cl:style styles="bold">objective</cl:style> a specifi c statement detailing what an organization intends to accomplish over a shorter period of time</cl:para>
+<cl:para><cl:style styles="bold">SWOT analysis</cl:style> the identifi cation and evaluation of a fi rm&#x2019;s strengths, weaknesses, opportunities, and threats</cl:para>
+<cl:para><cl:style styles="bold">core competencies</cl:style> approaches and processes that a company performs well that may give it an advantage over its competitors</cl:para>
+<cl:para>&#x00A9; AP Images/PRNewsFoto/Afl ac</cl:para>
+<cl:para><cl:style styles="bold">170</cl:style> </cl:para>
+<cl:para><cl:style styles="bold">Part 3: Management and Organization</cl:style></cl:para>
+<cl:para>7808X&#x005F;06&#x005F;ch06&#x005F;p165-190.indd 170 7808X&#x005F;06&#x005F;ch06&#x005F;p165-190.indd 170 28/10/10 11:33 PM</cl:para>
+<cl:para>28/10/10 11:33 PM</cl:para>
+<cl:para><cl:style styles="bold">Figure 6.3</cl:style> Elements and Examples of SWOT Analysis</cl:para>
+<cl:para>oEfficient distribution channels</cl:para>
+<cl:para>oEmployeeeducationand experience</cl:para>
+<cl:para>oProtectedpatents</cl:para>
+<cl:para>oCorecompetencies</cl:para>
+<cl:para>oExcellentfacilities/equipment</cl:para>
+<cl:para>oProvenmanagement</cl:para>
+<cl:para>oEconomiesofscale</cl:para>
+<cl:para>oCostadvantages</cl:para>
+<cl:para>WEAKNESSES</cl:para>
+<cl:para>oHighturnover,absenteeism</cl:para>
+<cl:para>oLackofstrategicdirection</cl:para>
+<cl:para>oObsoleteproductionfacilities</cl:para>
+<cl:para>oLaborgrievances</cl:para>
+<cl:para>oLackofmanagerialdepth</cl:para>
+<cl:para>oNegativepublicimage</cl:para>
+<cl:para>STRENGTHS</cl:para>
+<cl:para><cl:style styles="bold">SWOT Analysis</cl:style></cl:para>
+<cl:para>OPPORTUNITIES</cl:para>
+<cl:para>oNewmarketsopeningup</cl:para>
+<cl:para>oNewtechnologies</cl:para>
+<cl:para>oIncreaseddemandfor newproducts</cl:para>
+<cl:para>oPotentialstrategicalliances</cl:para>
+<cl:para>oMorefavorabletraderegulations</cl:para>
+<cl:para> in desirableforeignmarkets</cl:para>
+<cl:para>oCompetitorcomplacency</cl:para>
+<cl:para>THREATS</cl:para>
+<cl:para>oEntryoflower-costforeign</cl:para>
+<cl:para> competitors</cl:para>
+<cl:para>oUnfavorablechangesin</cl:para>
+<cl:para> buyerneeds andtastes</cl:para>
+<cl:para>oRisingsalesofsubstituteproducts</cl:para>
+<cl:para>oSlowingmarketgrowth</cl:para>
+<cl:para>oCostlyregulatoryrequirements</cl:para>
+<cl:para>oVulnerabilitytobusinesscycle</cl:para>
+<cl:para> changes</cl:para>
+<cl:para>oSolesourcing</cl:para>
+<cl:para><cl:style styles="bold">resources and be more capable of producing products that better satisfy customers. Weaknesses refer to any internal limitations a company faces in developing or implementing plans. At times, managers have diffi culty identifying and understanding the negative effects of weaknesses in their organizations.</cl:para>
+<cl:para>External opportunities and threats exist independently of the firm. Opportunities refer to favorable conditions in the environment that could produce rewards for the organization. That is, opportunities are situations that exist but must be exploited for the firm to benefit from them. Threats, on the other hand, are conditions or barriers that may prevent the firm from reaching its objectives. Opportunities and threats can stem from many sources within the business environment. For example, competitor&#x2019;s actions, new laws, economic changes, or new technology can be threats. Threats for some firms may be opportunities for others. Examples of strengths, weaknesses, opportunities, and threats are shown in Figure 6.3.</cl:para>
+<cl:para>Types of Plans <cl:style styles="bold">Once goals and objectives have been set for the organization, managers must develop plans for achieving them. A</cl:style> plan <cl:style styles="bold">is an outline of the actions by which an organization intends to accomplish its goals and objectives. Just as it has different goals and objectives, the organization also develops several types of plans, as shown in Figure 6.4.</cl:para>
+<cl:para>Resulting from the strategic planning process, an organization&#x2019;s</cl:style> strategic plan <cl:style styles="bold">is its broadest plan, developed as a guide for major policy setting and decision-making. Strategic plans are set by the board of directors and top management and are generally designed to achieve the organization&#x2019;s long-term goals. Thus, a firm&#x2019;s strategic plan defines what business the company is in or wants to be in and the kind of company it is or wants to be. When top management at the world&#x2019;s biggest retailer, Walmart, wanted to manage their stores more efficiently, they decided to focus on three priorities&#x2014;growth, leverage, and returns&#x2014;in order to provide more value for customers and shareholders. First, management consolidated the company&#x2019;s logistics, real estate, and store operations. Then, stores in the United </cl:para>
+<cl:para>plan</cl:style> an outline of the actions by which an organization intends to accomplish its goals and objectives</cl:para>
+<cl:para><cl:style styles="bold">strategic plan</cl:style> an organization&#x2019;s broadest plan, developed as a guide for major policy setting and decision making</cl:para>
+<cl:para><cl:style styles="bold">Chapter 6: Understanding the Management Process</cl:style> </cl:para>
+<cl:para><cl:style styles="bold">171</cl:style></cl:para>
+<cl:para>7808X&#x005F;06&#x005F;ch06&#x005F;p165-190.indd 171 7808X&#x005F;06&#x005F;ch06&#x005F;p165-190.indd 171 28/10/10 11:33 PM</cl:para>
+<cl:para>28/10/10 11:33 PM</cl:para>
+<cl:para><cl:style styles="bold">Figure 6.4</cl:style> Types of Plans</cl:para>
+<cl:para><cl:style styles="bold">Managers develop and rely on several types of plans.</cl:style></cl:para>
+<cl:para>STRATEGIC PLANS</cl:para>
+<cl:para>o Broad guide for major</cl:para>
+<cl:para> policy setting</cl:para>
+<cl:para>oDesigned to achieve</cl:para>
+<cl:para> long-term goals</cl:para>
+<cl:para>oSet by board of directors and top management</cl:para>
+<cl:para>TACTICAL PLANS</cl:para>
+<cl:para>oSmaller-scale plan to implement strategic plan</cl:para>
+<cl:para>oMay be updated</cl:para>
+<cl:para> periodically</cl:para>
+<cl:para>oEasier to change than</cl:para>
+<cl:para> strategic plans</cl:para>
+<cl:para><cl:style styles="bold">Types of Plans</cl:style></cl:para>
+<cl:para>OPERATIONAL PLANS</cl:para>
+<cl:para>oDesigned to implement</cl:para>
+<cl:para> tactical plans</cl:para>
+<cl:para>oPlan is one year or less</cl:para>
+<cl:para>oDeals with how to</cl:para>
+<cl:para> accomplish specific</cl:para>
+<cl:para> objectives</cl:para>
+<cl:para>CONTINGENCY PLANS</cl:para>
+<cl:para>oOutline of alternative courses of action if other plans are disrupted or noneffective </cl:para>
+<cl:para>oUsed in conjunction with strategic, tactical, and operational plans</cl:para>
+<cl:para>States were divided into three new business units: Walmart West, Walmart South, and Walmart North. Finally, a new division called Global.com was created to regulate global e-commerce and business. This long-term strategy has been adopted to facilitate the company&#x2019;s future growth as it expands.<cl:superscript>5</cl:superscript></cl:para>
+<cl:para><cl:style styles="bold">The Internet has challenged traditional strategic thinking. For example, reluctant to move from a face-to-face sales approach to a less personal Web site approach, Allstate has created an Internet presence to support its established sales force.</cl:style></cl:para>
+<cl:para>In addition to strategic plans, most organizations also employ several narrower kinds of plans. A <cl:style styles="bold">tactical plan</cl:style> is a smaller scale plan developed to implement a strategy. Most tactical plans cover a one- to three-year period. If a strategic plan will take five years to complete, the firm may develop five tactical plans, one covering each year. Tactical plans may be updated periodically as dictated by conditions and experience. Their more limited scope permits them to be changed more easily than strategies. Volkswagen, for example, recently began constructing a new assembly plant in Guangzhou, China. The 300,000-unit plant is expected to begin operations in 2013, and is expected to increase Volkswagen&#x2019;s sales and market penetration in southern China, which is currently dominated by Toyota, Honda, and Nissan. This tactical plan is part of Volkwagen&#x2019;s recent strategic plan to achieve annual sales of more than 2 million units in southern China by 2018. China is currently Volkwagen&#x2019;s largest market, with nearly 1.5 million units of annual sales, more than the company&#x2019;s market in Germany or the United States. The automobile manufacturer hopes that this newest assembly plant will help Volkswagen achieve its long-term goal.<cl:superscript>6</cl:superscript></cl:para>
+<cl:para><cl:style styles="bold">An</cl:style> operational plan <cl:style styles="bold">is a type of plan designed to implement tactical plans. Operational plans are usually established for one year or less and deal with how to accomplish the organization&#x2019;s specific objectives. Procter &#x0026; Gamble has adopted the <cl:style styles="italic">Go-to-Market plan</cl:style> in order to speed up the availability of products to retailers and thus to consumers. The strategic and tactical plans have been kept in mind in </cl:para>
+<cl:para>tactical plan</cl:style> a smaller scale plan developed to implement a strategy</cl:para>
+<cl:para><cl:style styles="bold">operational plan</cl:style> a type of plan designed to implement tactical plans</cl:para>
+<cl:para><cl:style styles="bold">172</cl:style> </cl:para>
+<cl:para><cl:style styles="bold">Part 3: Management and Organization</cl:style></cl:para>
+<cl:para>7808X&#x005F;06&#x005F;ch06&#x005F;p165-190.indd 172 7808X&#x005F;06&#x005F;ch06&#x005F;p165-190.indd 172 28/10/10 11:33 PM</cl:para>
+<cl:para>28/10/10 11:33 PM</cl:para>
+<cl:para>Going for <cl:style styles="bold">SUCCESS</cl:para>
+<cl:para>Be Prepared with a Contingency Plan</cl:style></cl:para>
+<cl:para>Managers have to be prepared for all kinds of twists and turns as they move their organizations toward the future in today&#x2019;s highly dynamic business environment. Strategic, tactical, and operational plans are vital for keeping the company on track toward its long-term and short-term goals. However, the future doesn&#x2019;t always unfold the way managers expect. That&#x2019;s why successful companies formulate a variety of contingency plans to deal with possible problems due to economic volatility, extreme weather conditions, prolonged power outages, a pandemic, fire or flood, or other major challenges.</cl:para>
+<cl:para>The Danish toymaker Lego, for example, has used contingency plans to effectively adapt to a range of economic circumstances. </cl:para>
+<cl:para>First, its top managers take a close look at several possible economic scenarios and estimate how each might disrupt Lego&#x2019;s performance. Next, they create contingency plans to minimize the disruption under each scenario. Then every month, the managers meet to review key economic indicators, examine Lego&#x2019;s performance in the context of these trends, and determine whether and when to put one of their contingency plans into operation. Thanks to good contingency planning, Lego has been able to preserve profits even during periods of economic turmoil.</cl:para>
+<cl:para>Sources: Joann S. Lublin and Dana Mattioli, &#x201C;Strategic Plans Lose Favor,&#x201D; <cl:style styles="italic">The</cl:style> <cl:style styles="italic">Wall Street Journal,</cl:style> January 25, 2010, http://www.wsj.com; &#x201C;Managing in the Fog,&#x201D; <cl:style styles="italic">The Economist,</cl:style> February 28, 2009, 67&#x2013;68; Phyllis Furman, &#x201C;In Case of Emergency: Business Contingency Plan Needed,&#x201D;</cl:para>
+<cl:para><cl:style styles="italic">New York Daily News,</cl:style> July 27, 2009, http://www.nydailynews.com/money/2009/07/27/2009-07-27&#x005F;getting&#x005F;ready&#x005F;for&#x005F;the&#x005F;day&#x005F;after.html?page&#x005B;H11005&#x005D;0.</cl:para>
+<cl:para>order to achieve this plan. It includes making significant changes in the way that Procter &#x0026; Gamble distributes its products.<cl:superscript>7</cl:superscript></cl:para>
+<cl:para><cl:style styles="bold">Regardless of how hard managers try, sometimes business activities do not go as planned. Today, most corporations also develop contingency plans along with strategies, tactical plans, and operational plans. A</cl:style> contingency plan <cl:style styles="bold">is a plan that outlines alternative courses of action that may be taken if an organization&#x2019;s other plans are disrupted or become ineffective.</cl:para>
+<cl:para><cl:style styles="italic">Organizing the Enterprise<cl:style styles="bold"></cl:style></cl:para>
+<cl:para>After goal setting and planning, the manager&#x2019;s second major function is organization.</cl:style> Organizing <cl:style styles="bold">is the grouping of resources and activities to accomplish some end result in an efficient and effective manner. Consider the case of an inventor who creates a new product and goes into business to sell it. At first, the inventor will do everything on his or her own&#x2014;purchase raw materials, make the product, advertise it, sell it, and keep business records. Eventually, as business grows, the inventor will need help. To begin with, he or she might hire a professional sales representative and a part-time bookkeeper. Later, it also might be necessary to hire sales staff, people to assist with production, and an accountant. As the inventor hires new personnel, he or she must decide what each person will do, to whom each person will report, and how each person can best take part in the organization&#x2019;s activities. We discuss these and other facets of the organizing function in much more detail in Chapter 7.</cl:para>
+<cl:para>contingency plan</cl:style> a plan that outlines alternative courses of action that may be taken if an organization&#x2019;s other plans are disrupted or become ineff ective</cl:para>
+<cl:para><cl:style styles="bold">organizing</cl:style> the grouping of resources and activities to accomplish some end result in an effi cient and eff ective manner</cl:para>
+<cl:para><cl:style styles="bold">leading</cl:style> the process of infl uencing people to work toward a common goal</cl:para>
+<cl:para><cl:style styles="bold">motivating</cl:style> the process of providing reasons for people to work in the best interests of an organization</cl:para>
+<cl:para><cl:style styles="bold">directing</cl:style> the combined processes of leading and motivating</cl:para>
+<cl:para><cl:style styles="italic">Leading and Motivating<cl:style styles="bold"></cl:style></cl:para>
+<cl:para>The leading and motivating function is concerned with the human resources within an organization. Specifically,</cl:style> leading <cl:style styles="bold">is the process of influencing people to work toward a common goal.</cl:style> Motivating <cl:style styles="bold">is the process of providing reasons for people to work in the best interests of an organization. Together, leading and motivating are often referred to as</cl:style> directing<cl:style styles="bold">.</cl:para>
+<cl:para>We have already noted the importance of an organization&#x2019;s human resources. Because of this importance, leading and motivating are critical activities. Obviously, different people do things for different reasons&#x2014;that is, they have </cl:para>
+<cl:para>Chapter 6: Understanding the Management Process</cl:style> </cl:para>
+<cl:para><cl:style styles="bold">173</cl:style></cl:para>
+<cl:para>7808X&#x005F;06&#x005F;ch06&#x005F;p165-190.indd 173 7808X&#x005F;06&#x005F;ch06&#x005F;p165-190.indd 173 28/10/10 11:33 PM</cl:para>
+<cl:para>28/10/10 11:33 PM</cl:para>
+<cl:para><cl:style styles="bold">different <cl:style styles="italic">motivations</cl:style>. Some are interested primarily in earning as much money as they can. Others may be spurred on by opportunities to get promoted. Part of a manager&#x2019;s job, then, is to determine what factors motivate workers and to try to provide those incentives to encourage effective performance. Jeffrey R. Immelt, GE&#x2019;s chairperson and CEO, has worked to transform GE into a leader in essential themes tied to world development, such as emerging markets, environmental solutions, demographics, and digital connections. He believes in giving freedom to his teams and wants them to come up with their own solutions. However, he does not hesitate to intervene if the situation demands. He believes that a leader&#x2019;s primary role is to teach, and he makes people feel that he is willing to share what he has learned. Immelt also laid the vision for GE&#x2019;s ambitious &#x201C;ecomagination initiative&#x201D; and has been named one of the &#x201C;World&#x2019;s Best CEOs&#x201D; three times by <cl:style styles="italic">Barron&#x2019;s</cl:style>.<cl:superscript>8</cl:superscript> A lot of research has been done on both motivation and leadership. As you will see in Chapter 10, research on motivation has yielded very useful information. However, research on leadership has been less successful. Despite decades of study, no one has discovered a general set of personal traits or characteristics that makes a good leader. Later in this chapter, we discuss leadership in more detail.</cl:para>
+<cl:para>Creating a satisfying work environment.</cl:style> At Google&#x2019;s Kirkland Washington facility, employees eat for free.</cl:para>
+<cl:para><cl:style styles="italic">Controlling Ongoing Activities<cl:style styles="bold"></cl:style></cl:style></cl:para>
+<cl:para>Controlling <cl:style styles="bold">is the process of evaluating and regulating ongoing activities to ensure that goals are achieved. To see how controlling works, consider a rocket launched by NASA to place a satellite in orbit. Do NASA personnel simply fire the rocket and then check back in a few days to find out whether the satellite is in place? Of course not. The rocket is monitored constantly, and its course is regulated and adjusted as needed to get the satellite to its destination.</cl:para>
+<cl:para>The control function includes three steps (see Figure 6.5). The first is <cl:style styles="italic">setting standards</cl:style> with which performance can be compared. The second is <cl:style styles="italic">measuring</cl:style> </cl:para>
+<cl:para>Figure 6.5</cl:style> The Control Function</cl:para>
+<cl:para> <cl:style styles="bold">The control function includes three steps: setting standards, measuring actual performance, and taking corrective action.</cl:style></cl:para>
+<cl:para>Setting standards <cl:style styles="bold">1</cl:style></cl:para>
+<cl:para><cl:style styles="bold">2</cl:style></cl:para>
+<cl:para>Measuring actual performance</cl:para>
+<cl:para><cl:style styles="bold">3</cl:style></cl:para>
+<cl:para>Taking corrective action</cl:para>
+<cl:para><cl:style styles="bold">controlling</cl:style> the process of evaluating and regulating ongoing activities to ensure that goals are achieved</cl:para>
+<cl:para>&#x00A9; AP Images/Ted S. Warren</cl:para>
+<cl:para><cl:style styles="bold">174</cl:style> </cl:para>
+<cl:para><cl:style styles="bold">Part 3: Management and Organization</cl:style></cl:para>
+<cl:para>7808X&#x005F;06&#x005F;ch06&#x005F;p165-190.indd 174 7808X&#x005F;06&#x005F;ch06&#x005F;p165-190.indd 174 28/10/10 11:33 PM</cl:para>
+<cl:para>28/10/10 11:33 PM</cl:para>
+<cl:para><cl:style styles="italic"><cl:style styles="bold">actual performance</cl:style> and comparing it with the standard. The third is <cl:style styles="italic">taking corrective action</cl:style> as necessary. Notice that the control function is circular in nature. The steps in the control function must be repeated periodically until the goal is achieved. For example, suppose that Southwest Airlines establishes a goal of increasing profits by 12 percent. To ensure that this goal is reached, Southwest&#x2019;s management might monitor its profit on a monthly basis. After three months, if profit has increased by 3 percent, management might be able to assume that plans are going according to schedule. In this case, it is likely that no action will be taken. However, if profit has increased by only 1 percent after three months, some corrective action is needed to get the firm on track. The particular action that is required depends on the reason for the small increase in profit.</cl:para>
+<cl:para>3<cl:style styles="bold"></cl:style></cl:para>
+<cl:para>Kinds of Managers<cl:style styles="bold"></cl:para>
+<cl:para>Managers can be classified in two ways: according to their level within an organization and according to their area of management. In this section, we use both perspectives to explore the various types of managers.</cl:para>
+<cl:para>Distinguish among the various kinds of managers in terms of both level and area of management.</cl:para>
+<cl:para><cl:style styles="italic">Levels of Management<cl:style styles="bold"></cl:style></cl:para>
+<cl:para>For the moment, think of an organization as a three-story structure (as illustrated in Figure 6.6). Each story corresponds to one of the three general levels of management: top managers, middle managers, and first-line managers.</cl:para>
+<cl:para>Top Managers <cl:style styles="bold">A</cl:style> top manager <cl:style styles="bold">is an upper-level executive who guides and controls an organization&#x2019;s overall fortunes. Top managers constitute a small group. In terms of planning, they are generally responsible for developing the organization&#x2019;s mission. They also determine the fi rm&#x2019;s strategy. It takes years of hard work, long hours, and perseverance, as well as talent and no small share of good luck, to reach the ranks of top management in large companies. Common job titles associated with top managers are president, vice president, chief executive offi cer (CEO), and chief operating offi cer (COO).</cl:para>
+<cl:para>Figure 6.6</cl:style> Management Levels Found in Most Companies</cl:para>
+<cl:para><cl:style styles="bold">The coordinated effort of all three levels of managers is required to implement the goals of any company.</cl:style></cl:para>
+<cl:para>Top management</cl:para>
+<cl:para>Middle management</cl:para>
+<cl:para>First-line management</cl:para>
+<cl:para><cl:style styles="bold">top manager</cl:style> an upper-level executive who guides and controls the overall fortunes of an organization</cl:para>
+<cl:para><cl:style styles="bold">Chapter 6: Understanding the Management Process</cl:style> </cl:para>
+<cl:para><cl:style styles="bold">175</cl:style></cl:para>
+<cl:para>7808X&#x005F;06&#x005F;ch06&#x005F;p165-190.indd 175 7808X&#x005F;06&#x005F;ch06&#x005F;p165-190.indd 175 28/10/10 11:33 PM</cl:para>
+<cl:para>28/10/10 11:33 PM</cl:para>
+<cl:para>Sustaining the Planet<cl:style styles="bold"></cl:para>
+<cl:para>Middle Managers <cl:style styles="bold">Middle managers probably make up the largest group of managers in most organizations. A</cl:style> middle manager <cl:style styles="bold">is a manager who implements the strategy and major policies developed by top management. Middle managers develop tactical plans and operational plans, and they coordinate and supervise the activities of fi rst-line managers. Titles at the middle-management level include division manager, department head, plant manager, and operations manager. </cl:para>
+<cl:para>First-Line Managers <cl:style styles="bold">A</cl:style> fi rst-line manager <cl:style styles="bold"> is a manager who coordinates and supervises the activities of operating employees. First-line managers spend most of their time working with and motivating their employees, answering questions, and solving day-to-day problems. Most fi rst-line managers are former operating employees who, owing to their hard work and potential, were promoted into management. Many of today&#x2019;s middle and top managers began their careers on this fi rst management level. Common titles for fi rst-line managers include offi ce manager, supervisor, and foreman.</cl:para>
+<cl:para>Walmart Leads in Managing Sustainability</cl:style></cl:para>
+<cl:para>Walmart is not only the world&#x2019;s largest retailer, it&#x2019;s also a recognized leader in managing for sustainability. The company has short-term and long-term plans to tackle a variety of important environmental issues, including reducing waste in landfills and harnessing energy from renewable sources. Take a look: http:// walmartstores.com/sustainability/.</cl:para>
+<cl:para><cl:style styles="italic">Areas of Management Specialization<cl:style styles="bold"></cl:para>
+<cl:para>middle manager</cl:style> a manager who implements the strategy and major policies developed by top management</cl:para>
+<cl:para><cl:style styles="bold">fi rst-line manager</cl:style> a manager who coordinates and supervises the activities of operating employees</cl:para>
+<cl:para><cl:style styles="bold">fi nancial manager</cl:style> a manager who is primarily responsible for an organization&#x2019;s fi nancial resources</cl:para>
+<cl:para><cl:style styles="bold">operations manager</cl:style> a manager who manages the systems that convert resources into goods and services</cl:para>
+<cl:para><cl:style styles="bold">Organizational structure can also be divided into areas of management specialization (see Figure 6.7). The most common areas are finance, operations, marketing, human resources, and administration. Depending on its mission, goals, and objectives, an organization may include other areas as well&#x2014;research and development (R&D), for example.</cl:para>
+<cl:para>Financial Managers <cl:style styles="bold">A</cl:style> fi nancial manager <cl:style styles="bold">is primarily responsible for an organization&#x2019;s fi nancial resources. Accounting and investment are specialized areas within fi nancial management. Because fi nancing affects the operation of the entire fi rm, many of the CEOs and presidents of this country&#x2019;s largest companies are people who got their &#x201C;basic training&#x201D; as fi nancial managers.</cl:para>
+<cl:para>Operations Managers <cl:style styles="bold">An</cl:style> operations manager <cl:style styles="bold">manages the systems that convert resources into goods and services. Traditionally, operations management has </cl:style></cl:para>
+<cl:para>&#x00A9; 2001 walmartstores.com, Inc. All Rights Reserved</cl:para>
+<cl:para><cl:style styles="bold">Figure 6.7</cl:style> Areas of Management Specialization</cl:para>
+<cl:para><cl:style styles="bold">Other areas may have to be added, depending on the nature of the firm and the industry.</cl:style></cl:para>
+<cl:para>Marketing Operations Finance Human resources</cl:para>
+<cl:para>Administration</cl:para>
+<cl:para>Other (e.g., research and development)</cl:para>
+<cl:para><cl:style styles="bold">176</cl:style> </cl:para>
+<cl:para><cl:style styles="bold">Part 3: Management and Organization</cl:style></cl:para>
+<cl:para>7808X&#x005F;06&#x005F;ch06&#x005F;p165-190.indd 176 7808X&#x005F;06&#x005F;ch06&#x005F;p165-190.indd 176 28/10/10 11:33 PM</cl:para>
+<cl:para>28/10/10 11:33 PM</cl:para>
+<cl:para><cl:style styles="bold">Managers work in teams.</cl:style> Managers from various specializations work together in teams to generate favorable outcomes.</cl:para>
+<cl:para><cl:style styles="bold">marketing manager</cl:style> a manager who is responsible for facilitating the exchange of products between an organization and its customers or clients</cl:para>
+<cl:para><cl:style styles="bold">human resources manager</cl:style> a person charged with managing an organization&#x2019;s human resources programs</cl:para>
+<cl:para><cl:style styles="bold">administrative manager</cl:style> a manager who is not associated with any specifi c functional area but who provides overall administrative guidance and leadership</cl:para>
+<cl:para><cl:style styles="bold">conceptual skills</cl:style> the ability to think in abstract terms</cl:para>
+<cl:para><cl:style styles="bold">analytic skills</cl:style> the ability to identify problems correctly, generate reasonable alternatives, and select the &#x201C;best&#x201D; alternatives to solve problems</cl:para>
+<cl:para>4<cl:style styles="bold"></cl:style></cl:para>
+<cl:para>Key Skills of Successful Managers<cl:style styles="bold"></cl:para>
+<cl:para>As shown in Figure 6.8, managers need a variety of skills, including conceptual, analytic, interpersonal, technical, and communication skills.</cl:para>
+<cl:para>Identify the key management skills of successful managers.</cl:style></cl:para>
+<cl:para><cl:style styles="italic">Conceptual Skills<cl:style styles="bold"></cl:style></cl:style></cl:para>
+<cl:para>Conceptual skills <cl:style styles="bold">involve the ability to think in abstract terms. Conceptual skills allow a manager to see the &#x201C;big picture&#x201D; and understand how the various parts of an organization or idea can fit together. These skills are useful in a wide range of situations, including the optimization of goals described earlier.</cl:para>
+<cl:para>&#x00A9; imagebroker/Alamy</cl:para>
+<cl:para><cl:style styles="bold">been equated with manufacturing&#x2014;the production of goods. However, in recent years, many of the techniques and procedures of operations management have been applied to the production of services and to a variety of nonbusiness activities. As with fi nancial management, operations management has produced a large percentage of today&#x2019;s company CEOs and presidents.</cl:para>
+<cl:para>Marketing Managers <cl:style styles="bold">A</cl:style> marketing manager <cl:style styles="bold">is responsible for facilitating the exchange of products between an organization and its customers or clients. Specifi c areas within marketing are marketing research, product management, advertising, promotion, sales, and distribution. A sizable number of today&#x2019;s company presidents have risen from the ranks of marketing management.</cl:para>
+<cl:para>Human Resources Managers</cl:style> A <cl:style styles="bold">human resources manager</cl:style> is charged with managing an organization&#x2019;s human resources programs. He or she engages in human resources planning; designs systems for hiring, training, and evaluating the performance of employees; and ensures that the organization follows government regulations concerning employment practices. Some human resources managers make effective use of technology. For example, more than 1 million job openings are posted on Monster.com, which attracts about 15 million visitors monthly.<cl:superscript>9</cl:para>
+<cl:para></cl:superscript></cl:para>
+<cl:para>Administrative Managers <cl:style styles="bold">An</cl:style> administrative manager <cl:style styles="bold">(also called a <cl:style styles="italic">general manager</cl:style>) is not associated with any specifi c functional area but provides overall administrative guidance and leadership. A hospital administrator is an example of an administrative manager. He or she does not specialize in operations, fi nance, marketing, or human resources management but instead coordinates the activities of specialized managers in all these areas. In many respects, most top managers are really administrative managers.</cl:para>
+<cl:para>Whatever their level in the organization and whatever area they specialize in, successful managers generally exhibit certain key skills and are able to play certain managerial roles. However, as we shall see, some skills are likely to be more critical at one level of management than at another.</cl:para>
+<cl:para><cl:style styles="italic">Analytic Skills<cl:style styles="bold"></cl:style></cl:para>
+<cl:para>Employers expect managers to use</cl:style> analytic skills <cl:style styles="bold">to identify problems correctly, generate reasonable alternatives, and select the &#x201C;best&#x201D; alternatives to solve problems. Top-level managers especially need these skills because they need to discern the important issues from the less important ones, as well as recognize the underlying </cl:para>
+<cl:para>Chapter 6: Understanding the Management Process</cl:style> </cl:para>
+<cl:para><cl:style styles="bold">177</cl:style></cl:para>
+<cl:para>7808X&#x005F;06&#x005F;ch06&#x005F;p165-190.indd 177 7808X&#x005F;06&#x005F;ch06&#x005F;p165-190.indd 177 28/10/10 11:33 PM</cl:para>
+<cl:para>28/10/10 11:33 PM</cl:para>
+<cl:para><cl:style styles="bold">Figure 6.8</cl:style> Key Skills of Successful Managers</cl:para>
+<cl:para>Analytic Skills</cl:para>
+<cl:para>Conceptual Skills</cl:para>
+<cl:para>Key Management Skills</cl:para>
+<cl:para>Interpersonal Skills</cl:para>
+<cl:para>Communication</cl:para>
+<cl:para>Technical Skills</cl:para>
+<cl:para>Skills</cl:para>
+<cl:para><cl:style styles="bold">reasons for different situations. Managers who use these skills not only address a situation but also correct the initial event or problem that caused it to occur. Thus, these skills are vital to run a business efficiently and logically.</cl:para>
+<cl:para><cl:style styles="italic">Interpersonal Skills<cl:style styles="bold"></cl:style></cl:style></cl:para>
+<cl:para>Interpersonal skills <cl:style styles="bold">involve the ability to deal effectively with other people, both inside and outside an organization. Examples of interpersonal skills are the ability to relate to people, understand their needs and motives, and show genuine compassion. One reason why Steve Jobs, founder of Apple, has been so successful is his ability to motivate his employees and to inspire their loyalty to his vision for the firm. Although it is obvious that a CEO such as Steve Jobs must be able to work with employees throughout the organization, what is not so obvious is that middle and first-line managers must also possess interpersonal skills. For example, a first-line manager on an assembly line at Procter &#x0026; Gamble must rely on employees to manufacture Tide detergent. The better the manager&#x2019;s interpersonal skills, the more likely the manager will be able to lead and motivate those employees. When all other things are equal, the manager who is able to exhibit these skills will be more successful than the arrogant and brash manager who does not care about others.</cl:para>
+<cl:para><cl:style styles="italic">Technical Skills<cl:style styles="bold"></cl:style></cl:style></cl:para>
+<cl:para>Technical skills <cl:style styles="bold">involve specific skills needed to accomplish a specialized activity. For example, the skills engineers and machinists need to do their jobs are technical skills. First-line managers (and, to a lesser extent, middle managers) need the technical skills relevant to the activities they manage. Although these managers may not perform the technical tasks themselves, they must be able to train subordinates, answer questions, and otherwise provide guidance and direction. A first-line manager in the accounting department of the Hyatt Corporation, for example, must be able to perform computerized accounting transactions and help employees complete the same accounting task. In general, top managers do </cl:para>
+<cl:para>interpersonal skills</cl:style> the ability to deal eff ectively with other people</cl:para>
+<cl:para><cl:style styles="bold">technical skills</cl:style> specifi c skills needed to accomplish a specialized activity</cl:para>
+<cl:para><cl:style styles="bold">178</cl:style> </cl:para>
+<cl:para><cl:style styles="bold">Part 3: Management and Organization</cl:style></cl:para>
+<cl:para>7808X&#x005F;06&#x005F;ch06&#x005F;p165-190.indd 178 7808X&#x005F;06&#x005F;ch06&#x005F;p165-190.indd 178 28/10/10 11:33 PM</cl:para>
+<cl:para>28/10/10 11:33 PM</cl:para>
+<cl:para><cl:style styles="bold">not rely on technical skills as heavily as managers at other levels. Still, understanding the technical side of a business is an aid to effective management at every level.</cl:para>
+<cl:para><cl:style styles="italic">Communication Skills<cl:style styles="bold"></cl:style></cl:style></cl:para>
+<cl:para>Communication skills<cl:style styles="bold">, both oral and written, involve the ability to speak, listen, and write effectively. Managers need both oral and written communication skills. Because a large part of a manager&#x2019;s day is spent conversing with others, the ability to speak <cl:style styles="italic">and</cl:style> listen is critical. Oral communication skills are used when a manager makes sales presentations, conducts interviews, and holds press conferences. Written communication skills are important because a manager&#x2019;s ability to prepare letters, e-mails, memos, sales reports, and other written documents may spell the difference between success and failure. In order to further communicate within an organization, most managers should know how to use a computer to prepare written and statistical reports and to communicate with other managers and employees.</cl:para>
+<cl:para>Managerial skills.</cl:style> An effective manager must be able to integrate and simultaneously employ several skills in order to be successful.</cl:para>
+<cl:para>5<cl:style styles="bold"></cl:style></cl:para>
+<cl:para>Leadership<cl:style styles="bold"></cl:para>
+<cl:para>Leadership <cl:style styles="bold">has been defined broadly as the ability to influence others. A leader can use his or her power to affect the behavior of others. Leadership is different from management in that a leader strives for voluntary cooperation, whereas a manager may have to depend on coercion to change employee behavior.</cl:para>
+<cl:para>Explain the different types of leadership.</cl:para>
+<cl:para>communication skills</cl:style> the ability to speak, listen, and write eff ectively</cl:para>
+<cl:para><cl:style styles="bold">leadership</cl:style> the ability to infl uence others</cl:para>
+<cl:para><cl:style styles="bold">autocratic leadership</cl:style> task-oriented leadership style in which workers are told what to do and how to accomplish it; workers have no say in the decision-making process</cl:para>
+<cl:para><cl:style styles="italic">Formal and Informal Leadership<cl:style styles="bold"></cl:style></cl:para>
+<cl:para>Some experts make distinctions between formal leadership and informal leadership. Formal leaders have legitimate power of position. They have <cl:style styles="italic">authority</cl:style> within an organization to influence others to work for the organization&#x2019;s objectives. Informal leaders usually have no such authority and may or may not exert their influence in support of the organization. Both formal and informal leaders make use of several kinds of power, including the ability to grant rewards or impose punishments, the possession of expert knowledge, and personal attraction or charisma. Informal leaders who identify with the organization&#x2019;s goals are a valuable asset to any organization. However, a business can be brought to its knees by informal leaders who turn work groups against management.</cl:para>
+<cl:para><cl:style styles="italic">Styles of Leadership<cl:style styles="bold"></cl:para>
+<cl:para></cl:style></cl:style></cl:para>
+<cl:para>&#x00A9;RF PhotoDisc/ Getty Images</cl:para>
+<cl:para>&#x00A9; AFP PHOTO/ RIA-NOVOSTI/ KREMLIN/ DMITRY ASTAKHOV/Newscom</cl:para>
+<cl:para><cl:style styles="bold">For many years, leadership was viewed as a combination of personality traits, such as self-confidence, concern for people, intelligence, and dependability. Achieving a consensus on which traits were most important was difficult, however, so attention turned to styles of leadership behavior. In recent years, several styles of leadership have emerged, including <cl:style styles="italic">autocratic, participative,</cl:style> and <cl:style styles="italic">entrepreneurial</cl:style>.</cl:para>
+<cl:para>Top management.</cl:style> Apple CEO, Steve Jobs, presents an iPhone 4 to Russian President Dmitry.</cl:para>
+<cl:para><cl:style styles="bold">Chapter 6: Understanding the Management Process</cl:style> </cl:para>
+<cl:para><cl:style styles="bold">179</cl:style></cl:para>
+<cl:para>7808X&#x005F;06&#x005F;ch06&#x005F;p165-190.indd 179 7808X&#x005F;06&#x005F;ch06&#x005F;p165-190.indd 179 28/10/10 11:33 PM</cl:para>
+<cl:para>28/10/10 11:33 PM</cl:para>
+<cl:para><cl:style styles="bold">SP<cl:superscript>O</cl:superscript>TLIGHT</cl:para>
+<cl:para>Autocratic leadership <cl:style styles="bold">is very task oriented.</cl:style></cl:para>
+<cl:para>Decisions are made confidently, with little concern about employee opinions. Employees are told exactly what is expected from them and given specific guidelines, rules, and regulations on how to achieve their tasks. At one time, managers at UPS used autocratic leadership. Managers at Hyundai USA also successfully employ the authoritarian leadership style.<cl:superscript>10</cl:superscript></cl:para>
+<cl:para>Participative leadership <cl:style styles="bold"> is common in today&#x2019;s business organizations. Participative leaders consult workers before making decisions. This helps workers understand which goals are important and fosters a sense of ownership and commitment to reach those goals. Participative leaders can be classified into three groups: consultative, consensus, and democratic. <cl:style styles="italic">Consultative leaders</cl:style> discuss issues with workers but retain the final authority for decision making. <cl:style styles="italic">Consensus leaders</cl:style> seek input from almost all workers and make final decisions based on their support. <cl:style styles="italic">Democratic leaders</cl:style> give final authority to the group. They collect opinions and base their decisions on the vote of the group. Google co-founders Larry Page and Sergey Brin are known for their democratic decision-making styles.<cl:superscript>11</cl:superscript> Communication is active upward and downward in participative organizations. Coaching, collaborating, and negotiating are important skills for participative leaders.</cl:para>
+<cl:para>Entrepreneurial leadership</cl:style> is personality dependent. Although each entrepreneur is different, this leadership style is generally task-oriented, driven, charismatic, and enthusiastic.<cl:superscript>12</cl:superscript> The entrepreneurial personality tends to take initiative, venture into new areas, be visionary, and focus on the next deal. Their enthusiasm energizes and inspires their people. Entrepreneurial leaders take responsibility for the success or failure of their firm, and often don&#x2019;t understand why their employees don&#x2019;t always share their passion for their work.<cl:superscript>13</cl:superscript></cl:para>
+<cl:para><cl:style styles="bold">What Are the Top-Ranked Traits of Successful Female Leaders?</cl:para>
+<cl:para>70%</cl:style></cl:para>
+<cl:para><cl:style styles="bold">66%</cl:style></cl:para>
+<cl:para><cl:style styles="bold">64%</cl:style></cl:para>
+<cl:para><cl:style styles="bold">Work/life balance</cl:style></cl:para>
+<cl:para><cl:style styles="bold">Flexibility Ability to make an impact </cl:style> </cl:para>
+<cl:para>Source: Accenture survey of 1,000 full-time female workers 22&#x2013;35 years old. Margin of error &#x00B1;3 percentage points. Multiple responses allowed. </cl:para>
+<cl:para><cl:style styles="bold">participative leadership</cl:style> </cl:para>
+<cl:para>leadership style in which all members of a team are involved in identifying essential goals and developing strategies to reach those goals</cl:para>
+<cl:para><cl:style styles="bold">entrepreneurial leadership</cl:style> </cl:para>
+<cl:para>personality-based leadership style in which the manager seeks to inspire workers with a vision of what can be accomplished to benefi t all stakeholders</cl:para>
+<cl:para><cl:style styles="italic">Which Leadership Style Is the Best?<cl:style styles="bold"></cl:style></cl:para>
+<cl:para>Today, most management experts agree that no &#x201C;best&#x201D; managerial leadership style exists. Each of the styles described&#x2014;autocratic, participative, and entrepreneurial&#x2014;has advantages and disadvantages. Participative leadership can motivate employees to work effectively because they are implementing their own decisions. However, the decision-making process in participative leadership takes time that subordinates could be devoting to the work itself. Table 6.1 presents tips for effective leadership. Most of these tips are consistent with the participative leadership style.</cl:para>
+<cl:para>Although hundreds of research studies have been conducted to prove which leadership style is best, there are no definite conclusions. The &#x201C;best&#x201D; leadership seems to occur when the leader&#x2019;s style matches the situation. Each of the leadership styles can be effective in the right situation. The <cl:style styles="italic">most</cl:style> effective </cl:para>
+<cl:para>Leadership style.</cl:style> Apple CEO, Steve Jobs, has a leadership style that helps to create an environment that nurtures and enhances the creation of technology-based products, many of which become highly successful.</cl:para>
+<cl:para>&#x00A9; Ryan Anson/AFP/Getty Images</cl:para>
+<cl:para><cl:style styles="bold">180</cl:style> </cl:para>
+<cl:para><cl:style styles="bold">Part 3: Management and Organization</cl:style></cl:para>
+<cl:para>7808X&#x005F;06&#x005F;ch06&#x005F;p165-190.indd 180 7808X&#x005F;06&#x005F;ch06&#x005F;p165-190.indd 180 28/10/10 11:33 PM</cl:para>
+<cl:para>28/10/10 11:33 PM</cl:para>
+<cl:para><cl:style styles="bold">Table 6.1</cl:style> </cl:para>
+<cl:para>Tips for Successful Leadership</cl:para>
+<cl:para>1. Walk the talk. Make your actions consistent with your words.</cl:para>
+<cl:para>2. Be truthful, fair, and respectful, and honor confidences.</cl:para>
+<cl:para>3. Demonstrate a vision and values worth following.</cl:para>
+<cl:para>4. Co-workers make mistakes. So do you. Admit to them and learn from them.</cl:para>
+<cl:para>5. Be open to what others have to offer. Ask questions and take time to listen to co-workers.</cl:para>
+<cl:para>6. Know your weaknesses, so you can build a team to make up for them.</cl:para>
+<cl:para>7. All work and no fun can reduce productivity.</cl:para>
+<cl:para>8. Help workers do their best by encouraging them to grow and learn.</cl:para>
+<cl:para>9. Never publicly blame anyone but yourself.</cl:para>
+<cl:para>10. Stay positive and expect it of your people. Negativity leads downhill fast.</cl:para>
+<cl:para>11. Involve people in decisions&#x2014;especially those regarding change.</cl:para>
+<cl:para>12. Be open to new ways of doing things. Embrace change&#x2014;it&#x2019;s inevitable.</cl:para>
+<cl:para>13. Recognize and celebrate individual and team successes, both big and not so big.</cl:para>
+<cl:para>14. Embrace and benefit from diversity.</cl:para>
+<cl:para>15. Empower your workers. They will have greater self-respect, responsibility, and accountability.</cl:para>
+<cl:para>16. Take your work, but not yourself, seriously.</cl:para>
+<cl:para><cl:style styles="bold">style depends on interaction among employees, characteristics of the work situation, and the manager&#x2019;s personality.</cl:para>
+<cl:para>6<cl:style styles="bold"></cl:style></cl:para>
+<cl:para>Managerial Decision Making<cl:style styles="bold"></cl:para>
+<cl:para>Decision making <cl:style styles="bold">is the act of choosing one alternative from a set of alternatives.<cl:superscript>14</cl:superscript> </cl:para>
+<cl:para>In ordinary situations, decisions are made casually and informally. We encounter a problem, mull it over, settle on a solution, and go on. Managers, however, require a more systematic method for solving complex problems. As shown in Figure 6.9, managerial decision making involves four steps: (1) identifying the problem or opportunity, (2) generating alternatives, (3) selecting an alternative, and (4) implementing and evaluating the solution.</cl:para>
+<cl:para>Discuss the steps in the managerial decision-making process.</cl:para>
+<cl:para><cl:style styles="italic">Identifying the Problem or Opportunity<cl:style styles="bold"></cl:style></cl:para>
+<cl:para>A</cl:style> problem <cl:style styles="bold"> is the discrepancy between an actual condition and a desired condition&#x2014;the difference between what is occurring and what one wishes would occur. For example, a marketing manager at Campbell Soup Company has a problem if sales revenues for Campbell&#x2019;s Hungry Man frozen dinners are declining (the actual condition). To solve this problem, the marketing manager must take steps to increase sales revenues (desired condition). Most people consider a problem to be &#x201C;negative;&#x201D; however, a problem also can be &#x201C;positive.&#x201D; A positive problem should be viewed as an &#x201C;opportunity.&#x201D;</cl:para>
+<cl:para>Although accurate identification of a problem is essential before it can be solved or turned into an opportunity, this stage of decision making creates many difficulties </cl:para>
+<cl:para>Figure 6.9</cl:style> Major Steps in the Managerial Decision-Making Process</cl:para>
+<cl:para><cl:style styles="bold">Managers require a systematic method for solving problems in a variety of situations.</cl:style></cl:para>
+<cl:para>Identifying the problem or opportunity</cl:para>
+<cl:para>Generating alternatives</cl:para>
+<cl:para>Selecting an alternative</cl:para>
+<cl:para>Implementing and evaluating the solution</cl:para>
+<cl:para><cl:style styles="bold">decision making</cl:style> the act of choosing one alternative from a set of alternatives</cl:para>
+<cl:para><cl:style styles="bold">problem</cl:style> the discrepancy between an actual condition and a desired condition</cl:para>
+<cl:para><cl:style styles="bold">Chapter 6: Understanding the Management Process</cl:style> </cl:para>
+<cl:para><cl:style styles="bold">181</cl:style></cl:para>
+<cl:para>7808X&#x005F;06&#x005F;ch06&#x005F;p165-190.indd 181 7808X&#x005F;06&#x005F;ch06&#x005F;p165-190.indd 181 28/10/10 11:33 PM</cl:para>
+<cl:para>28/10/10 11:33 PM</cl:para>
+<cl:para><cl:style styles="bold">for managers. Sometimes managers&#x2019; preconceptions of the problem prevent them from seeing the actual situation. They produce an answer before the proper question has been asked. In other cases, managers overlook truly significant issues by focusing on unimportant matters. Also, managers may mistakenly analyze problems in terms of symptoms rather than underlying causes.</cl:para>
+<cl:para>Effective managers learn to look ahead so that they are prepared when decisions must be made. They clarify situations and examine the causes of problems, asking whether the presence or absence of certain variables alters a situation. Finally, they consider how individual behaviors and values affect the way problems or opportunities are defined.</cl:para>
+<cl:para><cl:style styles="italic">Generating Alternatives<cl:style styles="bold"></cl:style></cl:para>
+<cl:para>After a problem has been defined, the next task is to generate alternatives. The more important the decision, the more attention that must be devoted to this stage. Managers should be open to fresh, innovative ideas as well as obvious answers.</cl:para>
+<cl:para>Certain techniques can aid in the generation of creative alternatives. Brainstorming, commonly used in group discussions, encourages participants to produce many new ideas. During brainstorming, other group members are not permitted to criticize or ridicule. Another approach, developed by the U.S. Navy, is called &#x201C;Blast! Then Refine.&#x201D; Group members tackle a recurring problem by erasing all previous solutions and procedures. The group then re-evaluates its original objectives, modifies them if necessary, and devises new solutions. Other techniques&#x2014; including trial and error&#x2014;are also useful in this stage of decision making.</cl:para>
+<cl:para><cl:style styles="italic">Selecting an Alternative<cl:style styles="bold"></cl:style></cl:style></cl:para>
+<cl:para>Final decisions are influenced by a number of considerations, including financial constraints, human and informational resources, time limits, legal obstacles, and political factors. Managers must select the alternative that will be most effective and practical. Starbucks, for example, was experiencing high profits a few years ago as it continued to expand to more than 17,000 stores. However, the recession eventually caught up with the company, as more of its customers turned to less expensive options offered by competition such as McDonald&#x2019;s and Dunkin&#x2019; Donuts, and the costs of its numerous failing stores added up. In an effort to turn Starbucks around, Howard Schultz, the man who bought the first six stores in 1987, returned to the CEO position and rehired many of the original top management staff to help lead the company&#x2019;s renovation. Starbucks then began an extensive process of closing low-producing stores and laying off workers, as management tried to return the company&#x2019;s focus back to urban areas. New stores were no longer cookie cutouts of each other, but instead were each specifically targeted to their community, with the product offering and store appearance varying by location. Many new locations didn&#x2019;t even carry the Starbucks name, such as the 15th Avenue Coffee and Tea in Seattle. One year later, Starbucks&#x2019; net income had nearly quadrupled as it began to see the effects of its changes.<cl:superscript>15</cl:superscript></cl:para>
+<cl:para><cl:style styles="bold">At times, two or more alternatives or some combination of alternatives will be equally appropriate. Managers may choose solutions to problems on several levels. The coined word <cl:style styles="italic">satisfice</cl:style> describes solutions that are only adequate and not ideal. When lacking time or information, managers often make decisions that &#x201C;satisfice.&#x201D; Whenever possible, managers should try to investigate alternatives carefully and select the ideal solution.</cl:para>
+<cl:para>Implementation of a decision requires time, planning, preparation of personnel, and evaluation of results. Managers usually deal with unforeseen consequences even when they have carefully considered the alternatives.</cl:para>
+<cl:para>7808X&#x005F;06&#x005F;ch06&#x005F;p165-190.indd 182 7808X&#x005F;06&#x005F;ch06&#x005F;p165-190.indd 182 28/10/10 11:33 PM</cl:para>
+<cl:para>28/10/10 11:33 PM</cl:para>
+<cl:para><cl:style styles="italic">Implementing and Evaluating the Solution<cl:style styles="bold"></cl:para>
+<cl:para>182 Part 3: Management and Organization</cl:style></cl:para>
+<cl:para><cl:style styles="bold">SUCCESSFUL SOLUTIONS</cl:para>
+<cl:para>Ethical Challenges &<cl:style styles="bold"></cl:para>
+<cl:para>Through Social Media, Do Workers Create Problems for Their Employers?</cl:style></cl:para>
+<cl:para>How should managers handle an employee&#x2019;s use of social media such as Twitter, blogs, and Facebook? Despite the growing popularity of tweeting, blogging, and connecting with others on Facebook, Linked In, and other sites, some companies are concerned that employees will inadvertently disclose proprietary information or become involved in controversial conversations that could harm the company&#x2019;s image. Another reason for discouraging social media use is to keep employees focused on business activities during the workday.</cl:para>
+<cl:para>Employers in a few industries&#x2014;such as financial services&#x2014;are required to monitor business-related messages that employees post on social-media sites to ensure that communications comply with government regulations. In most cases, however, companies are free to set their own policies regarding the use of social media.</cl:para>
+<cl:para>A growing number of firms are encouraging employees to interact with each other and with customers and suppliers using social media, as long as they follow specific guidelines. For example, IBM&#x2019;s policy requires employees to use respectful language, obey copyright laws, and indicate that their views are personal rather than corporate. Kodak&#x2019;s employees must disclose their affiliation when discussing anything related to the company&#x2019;s business and are not allowed to reveal any confidential information. The social-media policy of online retailer Zappos is short and to the point: &#x201C;Be real and use your best judgment.&#x201D;</cl:para>
+<cl:para>Sources: Tamara Schweitzer, &#x201C;Do You Need a Social Media Policy?&#x201D; <cl:style styles="italic">Inc.,</cl:style> January 25, 2010, http://www.inc.com/ articles/2010/01/need-a-social-media-policy.html; David Scheer, &#x201C;Brokers&#x2019; Facebook, Twitter Posts Must Be Tracked by Employers,&#x201D; <cl:style styles="italic">BusinessWeek,</cl:style> January 25, 2010, http://www.businessweek.com; Charlene Li, <cl:style styles="italic">Open Leadership</cl:style> (San Francisco, CA: Jossey-Bass, 2010), chap. 5; Stephen Baker, &#x201C;Beware Social Media Snake Oil,&#x201D; <cl:style styles="italic">BusinessWeek,</cl:style> December 14, 2009, 48&#x2013;51.</cl:para>
+<cl:para>&#x00A9; E.D. Torial / Alamy</cl:para>
+<cl:para><cl:style styles="bold">The final step in managerial decision making entails evaluating a decision&#x2019;s effectiveness. If the alternative that was chosen removes the difference between the actual condition and the desired condition, the decision is considered effective. If the problem still exists, managers may select one of the following choices:</cl:para>
+<cl:para>o Decide to give the chosen alternative more time to work.</cl:para>
+<cl:para>o Adopt a different alternative.</cl:para>
+<cl:para>o Start the problem identification process all over again.</cl:style></cl:para>
+<cl:para>Failure to evaluate decisions adequately may have negative consequences. For example, Toyota suffered negative consequences after its focus on rapid growth led to a series of recalls that damaged the company&#x2019;s reputation for quality. In 2002, Toyota executives announced plans to become the largest automaker by attaining 15 percent of the global market share for automobiles. Although the company reached their goal less than eight years later, their choice to cut costs by switching to less-expensive suppliers for parts led to recent issues with faulty accelerator pedals. These issues temporarily stopped production in several countries and caused Toyota to recall over eight million vehicles worldwide, making it the largest automobile recall in history.<cl:superscript>16</cl:superscript></cl:para>
+<cl:para>Managing Total Quality<cl:style styles="bold"></cl:para>
+<cl:para>7<cl:style styles="bold"></cl:para>
+<cl:para>The management of quality is a high priority in some organizations today. Major reasons for a greater focus on quality include foreign competition, more demanding customers, and poor financial performance resulting from reduced market shares </cl:para>
+<cl:para>Describe how organizations benefit from total quality management.</cl:para>
+<cl:para>Chapter 6: Understanding the Management Process</cl:style> </cl:para>
+<cl:para><cl:style styles="bold">183</cl:style></cl:para>
+<cl:para>7808X&#x005F;06&#x005F;ch06&#x005F;p165-190.indd 183 7808X&#x005F;06&#x005F;ch06&#x005F;p165-190.indd 183 28/10/10 11:33 PM</cl:para>
+<cl:para>28/10/10 11:33 PM</cl:para>
+<cl:para><cl:style styles="bold">and higher costs. Over the last few years, several U.S. firms have lost the dominant competitive positions they had held for decades.</cl:para>
+<cl:para>Total quality management is a much broader concept than just controlling the quality of the product itself (which is discussed in Chapter 8).</cl:style> Total quality management (TQM) <cl:style styles="bold">is the coordination of efforts directed at improving customer satisfaction, increasing employee participation, strengthening supplier partnerships, and facilitating an organizational atmosphere of continuous quality improvement. For TQM programs to be effective, management must address each of the following components:</cl:para>
+<cl:para> o <cl:style styles="italic">Customer satisfaction</cl:style>. Ways to improve include producing higher-quality products, providing better customer service, and showing customers that the company cares. o <cl:style styles="italic">Employee participation</cl:style>. This can be increased by allowing employees to contribute to decisions, develop self-managed work teams, and assume responsibility for improving the quality of their work. o <cl:style styles="italic">Strengthening supplier partnerships</cl:style>. Developing good working relationships with suppliers can ensure that the right supplies and materials will be delivered on time at lower costs. o <cl:style styles="italic">Continuous quality improvement.</cl:style> This should not be viewed as achievable through one single program that has a target objective. A program based on continuous improvement has proven to be the most effective long-term approach.</cl:para>
+<cl:para>One tool that is used for TQM is called benchmarking.</cl:style> Benchmarking <cl:style styles="bold">is the process of evaluating the products, processes, or management practices of another organization for the purpose of improving quality. The focal organization may be superior in safety, customer service, productivity, innovativeness, or in some other way.</cl:para>
+<cl:para>For example, competitor&#x2019;s products might be disassembled and evaluated, or wage and benefit plans might be surveyed to measure compensation packages against the labor market. The four basic steps of benchmarking are identifying objectives, forming a benchmarking team, collecting data, analyzing data, and acting on the results. Best practices may be discovered in any industry or organization.</cl:para>
+<cl:para>Although many factors influence the effectiveness of a TQM program, two issues are crucial. First, top management must make a strong commitment to a TQM program by treating quality improvement as a top priority and giving it frequent attention. Firms that establish a TQM program but then focus on other priorities will find that their quality-improvement initiatives will fail. Second, management must coordinate the specific elements of a TQM program so that they work in harmony with each other.</cl:style></cl:para>
+<cl:para>Although not all U.S. companies have TQM programs, these programs provide many benefits. Overall financial benefits include lower operating costs, higher return on sales and on investments, and an improved ability to use premium pricing rather than competitive pricing. Motorola has successfully implemented a TQM program, which helps the company reduce defects and keep up with its competitors technologically.<cl:superscript>17</cl:superscript></cl:para>
+<cl:para><cl:style styles="bold">Total quality management.</cl:style> Starbucks CEO Howard Schultz, who espouses the importance and methods of total quality management, addresses the company&#x2019;s shareholders. </cl:para>
+<cl:para><cl:style styles="bold">total quality management (TQM)</cl:style> the coordination of eff orts directed at improving customer satisfaction, increasing employee participation, strengthening supplier partnerships, and facilitating an organizational atmosphere of continuous quality improvement</cl:para>
+<cl:para><cl:style styles="bold">benchmarking</cl:style> a process used to evaluate the products, processes, or management practices of another organization that is superior in some way in order to improve quality</cl:para>
+<cl:para>&#x00A9; AP Images/Elaine Thompson</cl:para>
+<cl:para><cl:style styles="bold">184</cl:style> </cl:para>
+<cl:para><cl:style styles="bold">Part 3: Management and Organization</cl:style></cl:para>
+<cl:para>7808X&#x005F;06&#x005F;ch06&#x005F;p165-190.indd 184 7808X&#x005F;06&#x005F;ch06&#x005F;p165-190.indd 184 28/10/10 11:33 PM</cl:para>
+<cl:para>28/10/10 11:33 PM</cl:para>
+<cl:para>return to inside business<cl:style styles="bold"></cl:style></cl:para>
+<cl:para>Procter &#x0026; Gamble<cl:style styles="bold"></cl:para>
+<cl:para>Procter &#x0026; Gamble (P&#x0026;G) has passed its 170th birthday, yet in its long and successful history, the company has had only 12 CEOs, always chosen from the ranks of its top managers rather than brought in from the outside. The latest is Robert McDonald, who says that one of his most important management responsibilities is ensuring &#x201C;continuity with change&#x201D; to keep the company growing as quickly as it did under the previous CEO.</cl:para>
+<cl:para>McDonald has reaffirmed the company&#x2019;s commitment to its mission of providing &#x201C;branded products and services of superior quality and value that improve the lives of the world&#x2019;s consumers, now and for generations to come.&#x201D; Now P&#x0026;G&#x2019;s managers are being challenged, as a team, to apply all of their technical, conceptual, and interpersonal skills to make progress toward McDonald&#x2019;s long-term goal of profitable growth through the addition of one billion new customers by 2015.</cl:style></cl:para>
+<cl:para>Questions<cl:style styles="bold"></cl:para>
+<cl:para>1. CEO Robert McDonald has created a computerized &#x201C;dashboard&#x201D; for managers to monitor the company&#x2019;s actual financial performance as it happens. What effect do you think this will have on the management process at P&#x0026;G?</cl:para>
+<cl:para>2. How does P&#x0026;G&#x2019;s mission guide managers in preparing and implementing strategic, tactical, and operational plans for the future?</cl:para>
+<cl:para>SUMMARY<cl:style styles="bold"></cl:para>
+<cl:para>Summary<cl:style styles="bold"></cl:style></cl:para>
+<cl:para>Define what management is.<cl:style styles="bold"></cl:para>
+<cl:para>Management is the process of coordinating people and other resources to achieve an organization&#x2019;s goals. Managers are concerned with four types of resources&#x2014; material, human, financial, and informational.</cl:para>
+<cl:para>Describe the four basic management functions: planning, organizing, leading and motivating, and controlling.<cl:style styles="bold"></cl:para>
+<cl:para>Managers perform four basic functions. Management functions do not occur according to some rigid, preset timetable, though. At any time, managers may engage in a number of functions simultaneously. However, each function tends to lead naturally to others. First, managers engage in planning&#x2014;determining where the firm should be going and how best to get there. One method of planning that can be used is SWOT analysis, which identifies and evaluates a firm&#x2019;s strengths, weaknesses, opportunities, and threats. Three types of plans, from the broadest to the most specific, are strategic plans, tactical plans, and operational plans. Managers also organize resources and activities to accomplish results in an efficient and effective manner, and they lead and motivate others to work in the best interests of the organization. In addition, managers control ongoing activities to keep the organization on course. There are three steps in the control function: setting standards, measuring actual performance, and taking corrective action.</cl:style></cl:para>
+<cl:para>Distinguish among the various kinds of managers in terms of both level and area of management.<cl:style styles="bold"></cl:para>
+<cl:para>Managers&#x2014;or management positions&#x2014;may be classified from two different perspectives. From the perspective of level within the organization, there are top managers, who control the fortunes of the organization; middle managers, who implement strategies and major policies; and first-line managers, who supervise the activities of operating employees. From the viewpoint of area of management, managers most often deal with the areas of finance, operations, marketing, human resources, and administration.</cl:para>
+<cl:para>Identify the key management skills of successful managers.<cl:style styles="bold"></cl:para>
+<cl:para>Managers need a variety of skills in order to run a successful and efficient business. Conceptual skills are used to think in abstract terms or see the &#x201C;big picture.&#x201D; Analytic skills are used to identify problems correctly, generate reasonable alternatives, and select the &#x201C;best&#x201D; alternatives to solve problems. Interpersonal skills are used to deal effectively with other people, both inside and outside an organization. Technical skills are needed to accomplish a specialized activity, whether they are used to actually do the task or used to train and assist employees. Communication skills are used to speak, listen, and write effectively.</cl:para>
+<cl:para>3<cl:style styles="bold"></cl:para>
+<cl:para>1</cl:para>
+<cl:para>2<cl:style styles="bold"></cl:para>
+<cl:para>CHAPTER REVIEW<cl:style styles="bold"></cl:para>
+<cl:para>4<cl:style styles="bold"></cl:para>
+<cl:para>Chapter 6: Understanding the Management Process</cl:style> </cl:para>
+<cl:para><cl:style styles="bold">185</cl:style></cl:para>
+<cl:para>7808X&#x005F;06&#x005F;ch06&#x005F;p165-190.indd 185 7808X&#x005F;06&#x005F;ch06&#x005F;p165-190.indd 185 28/10/10 11:34 PM</cl:para>
+<cl:para>28/10/10 11:34 PM</cl:para>
+<cl:para>CHAPTER REVIEW<cl:style styles="bold"></cl:para>
+<cl:para>Explain the different types of leadership.<cl:style styles="bold"></cl:para>
+<cl:para>Managers&#x2019; effectiveness often depends on their styles of leadership&#x2014;that is, their ability to influence others, either formally or informally. Autocratic leaders are very task oriented; they tell their employees exactly what is expected from them and give them specific instructions on how to do their assigned tasks. Participative leaders consult their employees before making decisions and can be classified into three groups: consultative, consensus, and democratic. Entrepreneurial leaders are different depending on their personalities, but they are generally enthusiastic and passionate about their work and tend to take initiative.</cl:para>
+<cl:para>Discuss the steps in the managerial decision-making process.<cl:style styles="bold"></cl:para>
+<cl:para>Decision making, an integral part of a manager&#x2019;s work, is the process of developing a set of possible alternative solutions to a problem and choosing one alternative from among the set. Managerial decision making involves four steps: Managers must accurately identify problems, generate several possible solutions, choose the solution that will be most effective under the circumstances, and implement and evaluate the chosen course of action.</cl:style></cl:para>
+<cl:para>Describe how organizations benefit from total quality management.<cl:style styles="bold"></cl:para>
+<cl:para>Total quality management (TQM) is the coordination of efforts directed at improving customer satisfaction, increasing employee participation, strengthening supplier partnerships, and facilitating an organizational atmosphere of continuous quality improvement. Another tool used for TQM is benchmarking, which is used to evaluate the products, processes, or management practices of another organization that is superior in some way in order to improve quality. The five basic steps in benchmarking are identifying objectives, forming a benchmarking team, collecting data, analyzing data, and acting on the results. To have an effective TQM program, top management must make a strong, sustained commitment to the effort and must be able to coordinate all the program&#x2019;s elements so that they work in harmony. Overall financial benefits of TQM include lower operating costs, higher return on sales and on investment, and an improved ability to use premium pricing rather than competitive pricing.</cl:para>
+<cl:para>5<cl:style styles="bold"></cl:para>
+<cl:para>7<cl:style styles="bold"></cl:para>
+<cl:para>6<cl:style styles="bold"></cl:para>
+<cl:para>Key Terms<cl:style styles="bold"></cl:para>
+<cl:para>You should now be able to define and give an example relevant to each of the following terms:</cl:para>
+<cl:para>management (168) planning (169) mission (169) strategic planning process </cl:para>
+<cl:para>(170) goal (170) objective (170)</cl:para>
+<cl:para>SWOT analysis (170) core competencies (170) plan (171) strategic plan (171)</cl:para>
+<cl:para>tactical plan (172) operational plan (172) contingency plan (173) organizing (173) leading (173) motivating (173) directing (173) controlling (174) top manager (175) middle manager (176) first-line manager (176)</cl:para>
+<cl:para>financial manager (176) operations manager (176) marketing manager (177) human resources manager </cl:para>
+<cl:para>(177) administrative manager (177) conceptual skills (177) analytic skills (177) interpersonal skills (178) technical skills (178) communication skills (179)</cl:para>
+<cl:para>leadership (179) autocratic leadership (179) participative leadership </cl:para>
+<cl:para>(180) entrepreneurial leadership </cl:para>
+<cl:para>(180) decision making (181) problem (181) total quality management </cl:para>
+<cl:para>(TQM) (184) benchmarking (184)</cl:para>
+<cl:para>Review Questions<cl:style styles="bold"></cl:para>
+<cl:para>1. Define the term <cl:style styles="italic">manager</cl:style> without using the word <cl:style styles="italic">management</cl:style> in your definition.</cl:para>
+<cl:para>2. Identify and describe the basic management functions.</cl:para>
+<cl:para>3. What are the major elements of SWOT analysis?</cl:para>
+<cl:para>4. How do a strategic plan, a tactical plan, and an operational plan differ? What do they all have in common?</cl:para>
+<cl:para>5. What exactly does a manager organize and for what reason?</cl:para>
+<cl:para>6. Why are leadership and motivation necessary in a business in which people are paid for their work?</cl:para>
+<cl:para>7. Explain the steps involved in the control function.</cl:para>
+<cl:para>8. How are the two perspectives on kinds of managers&#x2014;that is, level and area&#x2014;different from each other?</cl:para>
+<cl:para>9. What skills should a manager possess in order to be successful? 10. Compare and contrast the major styles of leadership. 11. Discuss what happens during each of the four steps of the managerial decision-making process. 12. What are the major benefits of a total quality management program?</cl:para>
+<cl:para>186</cl:style> </cl:para>
+<cl:para><cl:style styles="bold">Part 3: Management and Organization</cl:style></cl:para>
+<cl:para>7808X&#x005F;06&#x005F;ch06&#x005F;p165-190.indd 186 7808X&#x005F;06&#x005F;ch06&#x005F;p165-190.indd 186 28/10/10 11:34 PM</cl:para>
+<cl:para>28/10/10 11:34 PM</cl:para>
+<cl:para>Discussion Questions<cl:style styles="bold"></cl:para>
+<cl:para>1. Does a healthy firm (one that is doing well) have to worry about effective management? Explain.</cl:para>
+<cl:para>2. What might be the mission of a neighborhood restaurant? Of the Salvation Army? What might be reasonable objectives for these organizations?</cl:para>
+<cl:para>3. Which of the management functions and skills do not apply to the owner-operator of a sole proprietorship?</cl:para>
+<cl:para>4. Which leadership style might be best suited to each of the three general levels of management within an organization?</cl:para>
+<cl:para>5. According to this chapter, the leadership style that is <cl:style styles="italic">most</cl:style> effective depends on interaction among the employees, characteristics of the work situation, and the manager&#x2019;s personality. Do you agree or disagree? Explain your answer.</cl:para>
+<cl:para>6. Do you think that people are really as important to an organization as this chapter seems to indicate?</cl:para>
+<cl:para>7. As you learned in this chapter, managers often work long hours at a hectic pace. Would this type of career appeal to you? Explain your answer.</cl:para>
+<cl:para>CHAPTER REVIEW<cl:style styles="bold"></cl:para>
+<cl:para>Video Case 6.1<cl:style styles="bold"></cl:para>
+<cl:para>L.L. Bean Relies on Its Core Values and Effective Leadership<cl:style styles="bold"></cl:para>
+<cl:para>L.L. Bean&#x2019;s first product was a waterproof boot, designed by Maine outdoorsman Leon Leonwood Bean, who promised complete customer satisfaction. One hundred pairs were sold&#x2014;and 90 pairs were returned because of a defect. Bean refunded the customers&#x2019; money and went to work perfecting the product, now one of the most popular in the firm&#x2019;s long and successful history.</cl:para>
+<cl:para>L.L. Bean began in 1912 as a tiny mail-order company and has grown to include 14 retail stores in ten states, an online store, and a popular catalog showcasing many of the company&#x2019;s 20,000 items, including high-quality clothing, accessories, outdoor gear, luggage, linens, and furniture. It is still privately owned and family run and has had just three presidents in its history&#x2014;L.L. Bean himself, his grandson Leon Gorman, and now Chris McCormick, the first nonfamily member to lead the firm. New England is the core of </cl:para>
+<cl:para>L.L. Bean&#x2019;s market, and its selling cycle accelerates sharply every year around the winter holidays. Headquartered in Freeport, Maine, near its original store, the company reports annual sales of over &#x0024;1.5 billion.</cl:para>
+<cl:para>Managers at L.L. Bean today have many opportunities for using their planning, organizing, leading, and controlling skills. During the preholiday selling season, for instance, temporary workers hired to handle the increased workload bring the normal staff of about 4,600 to almost double its size, so managers have to reorganize the teams of 25 to 30 front-line employees who work in the call centers. Regular employees not currently in leadership positions are asked to head the teams of temps, ensuring they have an experienced person to help them develop their skills and perform to expectations. This organizing strategy works so well that many temps return year after year.</cl:para>
+<cl:para>Planning skills come to the fore when top management decides when and where to open new retail stores, whether to expand the number of outlet stores offering discontinued items and overstocks, and how much to invest in ensuring that L.L. Bean buildings meet the highest standards of environmental stewardship. One recent strategic planning project resulted in the creation of a new clothing and accessories collection called L.L. Bean Signature, featuring updated versions of classic items from the company&#x2019;s 100-year heritage.</cl:para>
+<cl:para>With respect to the control function, managers assess employee performance with a continuous evaluation process. Corporate-level goals are broken down to the level of the individual store and employee. If something isn&#x2019;t on track, the supervisor is expected to let the employee know and help figure out a solution. However, control at L.L. Bean is not entirely a top-down process. Employees are encouraged to develop their own personal goals, such as learning a new skill or gaining a better appreciation of the way </cl:para>
+<cl:para>L.L. Bean makes business decisions. Managers help them find ways to meet these personal objectives as well, through a temporary reassignment within the firm or participation in a special company project.</cl:style></cl:para>
+<cl:para>L.L. Bean has a strong collaborative work culture in which it is equally important to work through your supervisor, your co-workers, and your subordinates. That means everyone is a leader to some extent. Formal management candidates are asked to demonstrate both analytical and interpersonal skills and to model the company&#x2019;s six core values: outdoor heritage, integrity, service, respect, perseverance, and safe and healthy living. In the early days of the company, L.L. Bean lived above the store and would come downstairs in the middle of the night to help a customer who rang the bell. &#x201C;A customer is the most important person ever in this office&#x2014;in person or by mail,&#x201D; he was fond of saying. So, true to his beliefs, leadership style continues to revolve around serving the customer&#x2019;s needs. As one L.L. Bean manager said, the company is all about salespeople and customer service representatives so that they can better serve customers.<cl:superscript>18</cl:superscript></cl:para>
+<cl:para><cl:style styles="bold">Chapter 6: Understanding the Management Process</cl:style> </cl:para>
+<cl:para><cl:style styles="bold">187</cl:style></cl:para>
+<cl:para>7808X&#x005F;06&#x005F;ch06&#x005F;p165-190.indd 187 7808X&#x005F;06&#x005F;ch06&#x005F;p165-190.indd 187 28/10/10 11:34 PM</cl:para>
+<cl:para>28/10/10 11:34 PM</cl:para>
+<cl:para>Questions<cl:style styles="bold"></cl:para>
+<cl:para>1. What style of leadership do you think most L.L. Bean managers probably employ?</cl:para>
+<cl:para>2. To produce hot water in L.L. Bean&#x2019;s flagship store, the company recently installed a solar hot water system that will offset almost 11,000 pounds of carbon dioxide emissions every year. Suggest some of the questions the company&#x2019;s managers might have asked at each level of planning (strategic, tactical, operational, and contingency) for this project.</cl:para>
+<cl:para>3. Which managerial role or roles do you think the leaders of L.L. Bean&#x2019;s temp teams fill?</cl:para>
+<cl:para>CHAPTER REVIEW<cl:style styles="bold"></cl:para>
+<cl:para>Case 6.2 DocuSign Changes Its Decision-Making to Cope with Crisis<cl:style styles="bold"></cl:para>
+<cl:para>What happens to decision making when a fast-growing company suddenly faces a crisis that could cloud its financial future? This happened to DocuSign, Inc., a Seattle-based provider of fully automated electronic signature services. The company offers software products that allow companies to transmit documents online and gather e-signatures quickly, cost-effectively, and securely. DocuSign&#x2019;s customers include companies in the financial services, e-commerce, mortgage, real estate, travel, and insurance industries. Since its founding in 2003, the firm has executed more than 58 million electronic signatures using desktop computers, laptops, cell phones, and other mobile devices.</cl:para>
+<cl:para>Not long ago, however, DocuSign&#x2019;s executives faced a big problem. Many of its major customers at that time were mortgage lenders and college loan companies, which relied heavily on its e-signature services to speed the loan-approval process for their customers. However, poor economic conditions and increased regulation threatened to slow or even shut down these companies&#x2019; spending, imperiling DocuSign&#x2019;s rapid growth and its revenue stream. &#x201C;We were faced with large market shifts in two of our top segments,&#x201D; said the CEO, &#x201C;both out of our control, and both within a 60-day period.&#x201D;</cl:para>
+<cl:para>Instead of closeting themselves in a conference room to work out a solution to the crisis, top managers called a town-hall style meeting of the entire company. Gathering their 40 employees together, they described the new market conditions they faced, outlined what the situation meant for DocuSign, and asked everyone for input to help devise solutions to the problem. &#x201C;We went straight to the people that deal with these customers on a daily basis, and that&#x2019;s our employees,&#x201D; the CEO remembers.</cl:para>
+<cl:para>This approach to shared decision making, implemented during a time of crisis, was effective in helping the company fend off the threats to its growth and pursue promising business opportunities. The firm began holding monthly company-wide meetings in which employees brainstormed new ways to assess the effect of changing market conditions. Top management also created smaller groups of employees and gave them responsibility for specific tasks such as bringing new products to market.</cl:para>
+<cl:para>During the next year, as employees rose to the challenge of shared responsibility for decision making, the company was able to identify and start relationships with a number of lucrative new clients. It created a new marketing program to focus potential customers&#x2019; attention on the environmental benefits of shifting to paperless transactions and e-signatures instead of printing mountains of paper contracts and agreements. The marketing program also emphasized the cost benefits of completing transactions electronically rather than relying on expensive overnight delivery of legal documents when signatures were required.</cl:para>
+<cl:para>As a result of this change in decision making, the company came out of the crisis with a secure enough financial future to obtain more than &#x0024;12 million in additional venture capital, enabling it to continue its growth. Just as important, since the crisis was averted, employees have continued to take an active role in formulating and guiding DocuSign&#x2019;s business strategy. &#x201C;You empower these people by telling them the truth and being open and honest with them,&#x201D; the CEO says. However, he goes on to say, &#x201C;We don&#x2019;t always want to get into a situation where our employees think that our senior management team doesn&#x2019;t have any input or doesn&#x2019;t have options. There&#x2019;s a balance there.&#x201D;<cl:superscript>19</cl:superscript> For more information about the company, go to http://www.docusign.com.</cl:para>
+<cl:para>Questions<cl:style styles="bold"></cl:para>
+<cl:para>1. How closely did DocuSign&#x2019;s top managers follow the steps in management decision making as outlined in the chapter? Explain your answer.</cl:para>
+<cl:para>2. Was the idea of involving both employees and managers in decision-making an effective solution to the crisis DocuSign faced? What are the advantages and disadvantages of continuing to involve employees in decision-making now that the crisis has been averted?</cl:para>
+<cl:para>3. Have you ever participated in a group decision-making situation, whether at work or in any organization to which you&#x2019;ve belonged? Did it follow the stages of decision making outlined in the chapter, and how effective was it in solving a problem or resolving a crisis? What would you do differently, having read the chapter?</cl:para>
+<cl:para>188</cl:style> </cl:para>
+<cl:para><cl:style styles="bold">Part 3: Management and Organization</cl:style></cl:para>
+<cl:para>7808X&#x005F;06&#x005F;ch06&#x005F;p165-190.indd 188 7808X&#x005F;06&#x005F;ch06&#x005F;p165-190.indd 188 28/10/10 11:34 PM</cl:para>
+<cl:para>28/10/10 11:34 PM</cl:para>
+<cl:para><cl:style styles="bold">R</cl:style></cl:para>
+<cl:para><cl:style styles="bold">E</cl:style></cl:para>
+<cl:para><cl:style styles="bold">I</cl:style></cl:para>
+<cl:para><cl:style styles="bold">L</cl:style></cl:para>
+<cl:para><cl:style styles="bold">D</cl:style></cl:para>
+<cl:para><cl:style styles="bold">I</cl:style></cl:para>
+<cl:para><cl:style styles="bold">N</cl:style></cl:para>
+<cl:para><cl:style styles="bold">G</cl:style></cl:para>
+<cl:para><cl:style styles="bold">S</cl:style></cl:para>
+<cl:para><cl:style styles="bold">K</cl:style></cl:para>
+<cl:para><cl:style styles="bold">I</cl:style></cl:para>
+<cl:para><cl:style styles="bold">L</cl:style></cl:para>
+<cl:para><cl:style styles="bold">L</cl:style></cl:para>
+<cl:para><cl:style styles="bold">S F O R C A R E E R S U C C E S S</cl:style></cl:para>
+<cl:para><cl:style styles="bold">ER SUCCESS o BU</cl:style></cl:para>
+<cl:para><cl:style styles="bold">O</cl:style></cl:para>
+<cl:para>CHAPTER REVIEW<cl:style styles="bold"></cl:para>
+<cl:para>C</cl:style></cl:para>
+<cl:para><cl:style styles="bold">A</cl:style></cl:para>
+<cl:para><cl:style styles="bold">B U I L D I N G S K I L L S</cl:style></cl:para>
+<cl:para><cl:style styles="bold">R</cl:style></cl:para>
+<cl:para><cl:style styles="bold">F</cl:style></cl:para>
+<cl:para>Building Skills for Career Success<cl:style styles="bold"></cl:para>
+<cl:para><cl:style styles="bold">o</cl:style></cl:para>
+<cl:para>1 JOURNALING FOR SUCCESS Discovery statement: <cl:style styles="bold">This chapter discussed the critical management function of leading and motivating others to work in the best interests of an organization. Think about your current job or a job that you had previously.</cl:para>
+<cl:para>Assignment<cl:style styles="bold"></cl:para>
+<cl:para>1. Who is the most outstanding leader with whom you have worked?</cl:para>
+<cl:para>2. What was his or her position and in what capacity did you work with the person?</cl:para>
+<cl:para>3. What are this person&#x2019;s outstanding leadership qualities?</cl:para>
+<cl:para>4. Select the most outstanding leadership quality from question 3 and provide an example that demonstrates this quality.</cl:para>
+<cl:para>5. Do most of your co-workers view this person as being an outstanding leader, too? Explain.</cl:para>
+<cl:para>2 EXPLORING THE INTERNET<cl:style styles="bold"></cl:para>
+<cl:para>Most large companies call on a management consulting firm for a variety of services, including employee training, help in the selection of an expensive purchase such as a computer system, recruitment of employees, and direction in reorganization and strategic planning.</cl:para>
+<cl:para>Large consulting firms generally operate globally and provide information to companies considering entry into foreign countries or business alliances with foreign firms. They use their Web sites, along with magazine-style articles, to celebrate achievements and present their credentials to clients. Business students can acquire an enormous amount of up-to-date information in the field of management by perusing these sites.</cl:para>
+<cl:para>Assignment<cl:style styles="bold"></cl:para>
+<cl:para>1. Explore each of the following Web sites:</cl:para>
+<cl:para>Accenture: http://www.accenture.com BearingPoint (formerly KPMG Consulting): http://www.bearingpoint.com Cap Gemini Ernst &#x0026; Young: http://www.capgemini.com</cl:para>
+<cl:para>Visit the text Web site for updates to this exercise.</cl:para>
+<cl:para>2. Judging from the articles and notices posted, what are the current areas of activities of one of these firms?</cl:para>
+<cl:para>3. Explore one of these areas in more detail by comparing postings from each firm&#x2019;s site. For instance, if &#x201C;global business opportunities&#x201D; appears to be a popular area of management consulting, how has each firm distinguished itself in this area? Who would you call first for advice?</cl:para>
+<cl:para>4. Given that consulting firms are always trying to fill positions for their clients and to meet their own recruitment needs, it is little wonder that employment postings are a popular area on their sites. Examine these in detail. Based on your examination of the site and the registration format, what sort of recruit are they interested in?</cl:style></cl:para>
+<cl:para>3 DEVELOPING CRITICAL-THINKING SKILLS<cl:style styles="bold"></cl:para>
+<cl:para>As defined in the chapter, an organization&#x2019;s mission is a statement of the basic purpose that makes the organization different from others. Clearly, a mission statement, by indicating the purpose of a business, directly affects the company&#x2019;s employees, customers, and stockholders.</cl:style></cl:para>
+<cl:para>Assignment<cl:style styles="bold"></cl:para>
+<cl:para>1. Find the mission statements of three large corporations in different industries. The Internet is one source of mission statements. For example, you might search these sites:</cl:para>
+<cl:para>http://www.kodak.com http://www.benjerry.com http://www.usaa.com</cl:para>
+<cl:para>2. Compare the mission statements on the basis of what each reflects about the company&#x2019;s philosophy and its concern for employees, customers, and stockholders.</cl:para>
+<cl:para>3. Which company would you like to work for and why?</cl:para>
+<cl:para>4. Prepare a report on your findings.</cl:para>
+<cl:para>4 BUILDING TEAM SKILLS<cl:style styles="bold"></cl:para>
+<cl:para>Over the past few years, an increasing number of employees, stockholders, and customers have been demanding to know what their companies are about. As a result, more companies have been taking the time to analyze their operations and to prepare mission statements that focus on the purpose of the company. The mission statement is becoming a critical planning tool for successful companies. To make effective decisions, employees must understand the purpose of their company.</cl:style></cl:para>
+<cl:para>Assignment<cl:style styles="bold"></cl:para>
+<cl:para>1. Divide into teams and write a mission statement for one of the following types of businesses:</cl:para>
+<cl:para>Food service, restaurant Banking Airline Auto repair Cabinet manufacturing</cl:para>
+<cl:para>2. Discuss your mission statement with other teams. How did the other teams interpret the purpose of your company? What is the mission statement saying about the company?</cl:para>
+<cl:para>3. Write a one-page report on what you learned about developing mission statements.</cl:para>
+<cl:para>Chapter 6: Understanding the Management Process</cl:style> </cl:para>
+<cl:para><cl:style styles="bold">189</cl:style></cl:para>
+<cl:para>7808X&#x005F;06&#x005F;ch06&#x005F;p165-190.indd 189 7808X&#x005F;06&#x005F;ch06&#x005F;p165-190.indd 189 28/10/10 11:34 PM</cl:para>
+<cl:para>28/10/10 11:34 PM</cl:para>
+<cl:para>CHAPTER REVIEW<cl:style styles="bold"></cl:para>
+<cl:para>5 RESEARCHING DIFFERENT CAREERS<cl:style styles="bold"></cl:para>
+<cl:para>A successful career requires planning. Without a plan, or roadmap, you will find it very difficult, if not impossible, to reach your desired career destination. The first step in planning is to establish your career goal. You then must set objectives and develop plans for accomplishing those objectives. This kind of planning takes time, but it will pay off later.</cl:para>
+<cl:para>Assignment<cl:style styles="bold"></cl:para>
+<cl:para>Complete the following statements:</cl:para>
+<cl:para>1. My career goal is to &#x005F;&#x005F;&#x005F;&#x005F;&#x005F;&#x005F;&#x005F;&#x005F;&#x005F;&#x005F;&#x005F;&#x005F;&#x005F;&#x005F;&#x005F;&#x005F;&#x005F;&#x005F;&#x005F;&#x005F;&#x005F;&#x005F;&#x005F;&#x005F;&#x005F;&#x005F;&#x005F;&#x005F;&#x005F;&#x005F;&#x005F;&#x005F;&#x005F;&#x005F;&#x005F;&#x005F;&#x005F;&#x005F;&#x005F;&#x005F;&#x005F;&#x005F;&#x005F;&#x005F;&#x005F;&#x005F;&#x005F;&#x005F;&#x005F;&#x005F;</cl:para>
+<cl:para>&#x005F;&#x005F;&#x005F;&#x005F;&#x005F;&#x005F;&#x005F;&#x005F;&#x005F;&#x005F;&#x005F;&#x005F;&#x005F;&#x005F;&#x005F;&#x005F;&#x005F;&#x005F;&#x005F;&#x005F;&#x005F;&#x005F;&#x005F;&#x005F;&#x005F;&#x005F;&#x005F;&#x005F;&#x005F;&#x005F;&#x005F;&#x005F;&#x005F;&#x005F;&#x005F;&#x005F;&#x005F;&#x005F;&#x005F;&#x005F;&#x005F;&#x005F;&#x005F;&#x005F;&#x005F;&#x005F;&#x005F;&#x005F;&#x005F;&#x005F;</cl:para>
+<cl:para> &#x005F;&#x005F;&#x005F;&#x005F;&#x005F;&#x005F;&#x005F;&#x005F;&#x005F;&#x005F;&#x005F;&#x005F;&#x005F;&#x005F;&#x005F;&#x005F;&#x005F;&#x005F;&#x005F;&#x005F;&#x005F;&#x005F;&#x005F;&#x005F;&#x005F;&#x005F;&#x005F;&#x005F;&#x005F;&#x005F;&#x005F;&#x005F;&#x005F;&#x005F;&#x005F;&#x005F;&#x005F;&#x005F;&#x005F;&#x005F;&#x005F;&#x005F;&#x005F;&#x005F;&#x005F;&#x005F;&#x005F;&#x005F;&#x005F;&#x005F;</cl:para>
+<cl:para>&#x005F;&#x005F;&#x005F;&#x005F;&#x005F;&#x005F;&#x005F;&#x005F;&#x005F;&#x005F;&#x005F;&#x005F;&#x005F;&#x005F;&#x005F;&#x005F;&#x005F;&#x005F;&#x005F;&#x005F;&#x005F;&#x005F;&#x005F;&#x005F;&#x005F;&#x005F;&#x005F;&#x005F;&#x005F;&#x005F;&#x005F;&#x005F;&#x005F;&#x005F;&#x005F;&#x005F;&#x005F;&#x005F;&#x005F;&#x005F;&#x005F;&#x005F;&#x005F;&#x005F;&#x005F;&#x005F;&#x005F;&#x005F;&#x005F;&#x005F;</cl:para>
+<cl:para>This statement should encapsulate what you want to accomplish over the long run. It may include the type of job you want and the type of business or industry you want to work in. Examples include the following:</cl:para>
+<cl:para>o My career goal is to work as a top manager in the food industry.</cl:para>
+<cl:para>o My career goal is to supervise aircraft mechanics.</cl:para>
+<cl:para>o My career goal is to win the top achievement award in the advertising industry.</cl:para>
+<cl:para>2. My career objectives are to &#x005F;&#x005F;&#x005F;&#x005F;&#x005F;&#x005F;&#x005F;&#x005F;&#x005F;&#x005F;&#x005F;&#x005F;&#x005F;&#x005F;&#x005F;&#x005F;&#x005F;&#x005F;&#x005F;&#x005F;&#x005F;&#x005F;&#x005F;&#x005F;&#x005F;&#x005F;&#x005F;&#x005F;&#x005F;&#x005F;&#x005F;&#x005F;&#x005F;&#x005F;&#x005F;&#x005F;&#x005F;&#x005F;&#x005F;&#x005F;&#x005F;&#x005F;&#x005F;&#x005F;&#x005F;&#x005F;&#x005F;&#x005F;&#x005F;&#x005F;</cl:para>
+<cl:para>&#x005F;&#x005F;&#x005F;&#x005F;&#x005F;&#x005F;&#x005F;&#x005F;&#x005F;&#x005F;&#x005F;&#x005F;&#x005F;&#x005F;&#x005F;&#x005F;&#x005F;&#x005F;&#x005F;&#x005F;&#x005F;&#x005F;&#x005F;&#x005F;&#x005F;&#x005F;&#x005F;&#x005F;&#x005F;&#x005F;&#x005F;&#x005F;&#x005F;&#x005F;&#x005F;&#x005F;&#x005F;&#x005F;&#x005F;&#x005F;&#x005F;&#x005F;&#x005F;&#x005F;&#x005F;&#x005F;&#x005F;&#x005F;&#x005F;&#x005F;</cl:para>
+<cl:para> &#x005F;&#x005F;&#x005F;&#x005F;&#x005F;&#x005F;&#x005F;&#x005F;&#x005F;&#x005F;&#x005F;&#x005F;&#x005F;&#x005F;&#x005F;&#x005F;&#x005F;&#x005F;&#x005F;&#x005F;&#x005F;&#x005F;&#x005F;&#x005F;&#x005F;&#x005F;&#x005F;&#x005F;&#x005F;&#x005F;&#x005F;&#x005F;&#x005F;&#x005F;&#x005F;&#x005F;&#x005F;&#x005F;&#x005F;&#x005F;&#x005F;&#x005F;&#x005F;&#x005F;&#x005F;&#x005F;&#x005F;&#x005F;&#x005F;&#x005F;</cl:para>
+<cl:para>&#x005F;&#x005F;&#x005F;&#x005F;&#x005F;&#x005F;&#x005F;&#x005F;&#x005F;&#x005F;&#x005F;&#x005F;&#x005F;&#x005F;&#x005F;&#x005F;&#x005F;&#x005F;&#x005F;&#x005F;&#x005F;&#x005F;&#x005F;&#x005F;&#x005F;&#x005F;&#x005F;&#x005F;&#x005F;&#x005F;&#x005F;&#x005F;&#x005F;&#x005F;&#x005F;&#x005F;&#x005F;&#x005F;&#x005F;&#x005F;&#x005F;&#x005F;&#x005F;&#x005F;&#x005F;&#x005F;&#x005F;&#x005F;&#x005F;&#x005F;</cl:para>
+<cl:para>Objectives are benchmarks along the route to a career destination. They are more specific than a career goal. A statement about a career objective should specify what you want to accomplish, when you will complete it, and any other details that will serve as criteria against which you can measure your progress. Examples include the following:</cl:para>
+<cl:para>o My objective is to enroll in a management course at Main College in the spring semester 2012.</cl:para>
+<cl:para>o My objective is to earn an A in the management course at Main College in the spring semester 2012.</cl:para>
+<cl:para>o My objective is to be promoted to supervisor by January 1, 2013.</cl:para>
+<cl:para>o My objective is to prepare a status report by September 30 covering the last quarter&#x2019;s activities by asking Charlie in Quality Control to teach me the procedures.</cl:para>
+<cl:para>3. Exchange your goal and objectives statements with another class member. Can your partner interpret your objectives correctly? Are the objectives concise and complete? Do they include criteria against which you can measure your progress? If not, discuss the problem and rewrite the objective.</cl:para>
+<cl:para>190</cl:style> </cl:para>
+<cl:para><cl:style styles="bold">Part 3: Management and Organization</cl:style></cl:para>
+<cl:para>7808X&#x005F;06&#x005F;ch06&#x005F;p165-190.indd 190 7808X&#x005F;06&#x005F;ch06&#x005F;p165-190.indd 190 28/10/10 11:34 PM</cl:para>
+<cl:para>28/10/10 11:34 PM</cl:para>

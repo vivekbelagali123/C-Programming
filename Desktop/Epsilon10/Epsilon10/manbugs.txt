@@ -1,0 +1,47 @@
+This file lists all known errors in the revision 9A manual for
+Epsilon 9.0.  All these errors have been corrected in the online
+documentation.  This file doesn't mention online documentation
+revisions that describes new or changed features: see the readme file
+for that.
+
+
+The description of the tex-look-back variable was omitted from the
+printed manual.
+
+One section of the manual suggested pressing <Tab> to edit the
+current line when viewing a history or completion list.  This only
+works in Epsilon for DOS or OS/2.  The Alt-E key works in all
+environments.
+
+The descriptions of the c-mode-mouse-to-tag and mouse-goes-to-tag
+variables didn't make it clear that they applied to Epsilon for DOS
+and Epsilon for OS/2, not Epsilon for Windows.
+
+The OS/2 variation of the -ka flag was omitted from the printed
+manual.
+
+The description of the select-help-files command now refers to the
+winhelp-display-contents variable.
+
+The description of the tex-environment command now mentions the
+latex.env file.
+
+The description of the tex-left-brace command was corrected.
+
+When the beep-frequency variable is zero, Epsilon for DOS or OS/2
+actually flashes the mode lines of each window, not the entire screen.
+
+The documentation for the clipboard-access variable describes how
+killing and yanking commands avoid automatically accessing the
+Windows clipboard when run from a keyboard macro.  The documentation
+for the yank command now describes auto-indenting and clipboard
+access.
+
+The description of the OS/2 version of the do_interrupt() primitive
+didn't explain how the return value when calling 32-bit functions
+could be retrieved.
+
+The description of the get_strnone() subroutine was corrected.
+
+The when_idle() subroutine's return value is actually in hundredths
+of a second, not milliseconds.

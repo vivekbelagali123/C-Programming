@@ -1,0 +1,88 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <script>
+        let x=[10,20,30,40];
+        //document.write(x);
+
+        for(i=0;i<x.length;i++){
+            document.write(x[i]);
+        }
+
+       // .dot operator is accessing operator
+    </script>
+    <script>
+        let c={"name":"vivek", "lastname":"vbb"};
+        document.write("<br>",c.name, c.lastname);
+    </script>
+    <script>
+        var z=[100,500,1000,5000];
+        z[0]=300;
+        delete(z[2])
+        document.write("<br>",z);
+    </script>
+    <script>
+        var a=[10,20,30,40,50]
+        a.push(500); //500 added at last
+        a.pop(); //last element will be deleted
+        a.shift(); //first element will be deleted
+        a.unshift("200"); //add element to the beginning
+        //a.reverse();//array will become in reverse order
+        document.write("<br>",a);
+        document.write("<br>", a.join("$"));
+    </script>
+    <script>
+        var d=[9,30,13,40];
+        var res=(d.map(x=>x*3));
+        document.write("<br>",res);
+    </script>
+    <script>
+        var mark=[50,45,85,95,100,80]
+        function check(value){
+            return value>60;
+        }
+        document.write("<br>",mark.filter(check));
+    </script>
+    <script>
+        var string_name=("<br>",'vivek');
+        document.write("<br>",string_name);
+    </script>
+    <script>
+        let m=new String('vivek');//string decalaration using object's
+        document.write("<br>",m);
+    </script>
+    <script>
+        var a="abc";
+        var b="xyz";
+        // var res=a.concat(b);//this is one method to concat of string
+        document.write("<br>",a.concat(b));//this is one method of concat of string
+    </script>
+    <script>
+        var a="welcome to Latpas";
+        var b=a.indexOf("to")
+        document.write("<br>",b);
+    </script>
+    <script>
+        var s1="string Method";
+        document.write("<br>",s1.toLowerCase());
+    </script>
+    <script>
+        var s1="string Method";
+        document.write("<br>",s1.toUpperCase());
+    </script>
+    <script>
+        var s1="string Method";
+        document.write("<br>",s1.slice(2,6));
+    </script>
+    <script>
+        var s1="learn any technology";
+        document.write("<br>",s1.split(""));
+    </script>
+</body>
+</html>
